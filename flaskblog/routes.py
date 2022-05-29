@@ -7,7 +7,7 @@ import pickle
 import sklearn
 from sklearn.preprocessing import StandardScaler
 
-model = pickle.load(open("D:/github/Engage2022/CarFind/flaskblog/RF_price_predicting_model.pkl", 'rb'))
+model = pickle.load(open("flaskblog/RF_price_predicting_model.pkl", 'rb'))
 
 @app.route('/')
 @app.route('/home/')
