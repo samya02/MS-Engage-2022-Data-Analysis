@@ -65,7 +65,7 @@ def predict():
         if output < 0:
             return render_template('predict.html', prediction_texts="Sorry this is not available")
         else:
-            return render_template('predict.html', prediction_text="You Can Buy The Car at ₹{:.3f}".format((output)))
+            return render_template('predict.html', prediction_text="You Can Buy The Car at ₹ {:.2f}".format((output)))
     else:
         return render_template('predict.html')
 
