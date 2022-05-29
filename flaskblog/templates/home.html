@@ -1,0 +1,300 @@
+{%extends "layout.html"%}
+
+{% block head %}
+
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/css/fontawesome-all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/home.css')}}">
+<link rel="stylesheet" href="{{url_for('static', filename='css/swiper.css')}}">
+<link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+{% endblock %}
+
+{% block content %}
+<section class="animation" style="position: relative; overflow: hidden;">
+  <img class="car" src="../static/images/car.png" alt="car">
+
+  <img class="bg-img" src="../static/images/header-background.jpg" alt="">
+  <h1 class="inner-div"
+    style="margin-top: 80px;position: absolute;top: 25vh;width: 50%;left: 5%;margin: 40px;font-size: 6rem; color: rgb(255, 255, 255); font-weight: bolder;">
+    CAR FIND</h1>
+  <h4 class="inner-div2"
+    style="margin-top: 80px;position: absolute;top: 47vh;width: 50%;left: 5%;line-height: 50px;margin: 40px;font-size: 30px; color: rgb(255, 255, 255); font-weight: bolder;">
+    Thinking of buying a Car? <br> With Car Find, perform a car search <br> with the features/criteria most vital to you, <br>
+    and discover the best price suited for you. </h4>
+
+
+
+    <!-- Project 1 -->
+    <div id="projects" class="basic-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-xl-5">
+                    <div class="text-container">
+                        <h2>Data Analysis of the Indian Automotive Industry.</h2>
+                        <p>India could be a leader in shared mobility by 2030, providing opportunities for electric and autonomous vehicles.
+                            Rising middle class income and a huge youth population will result in strong demand. This project analyse major industry providing real time graphs</p>
+                        <a class="read-more no-line green" href="{{url_for('dashboard')}}">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6 col-xl-7">
+                    <div class="image-container">
+                        <video class="img-fluid" src="../static/images/GraphVideo.mp4" muted loop autoplay alt="alternative">
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-2 -->
+    <!-- end of project 1 -->
+
+
+    <!-- Project 2 -->
+    <div class="basic-3 bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-xl-7">
+                    <div class="image-container">
+                        <video class="img-fluid" src="../static/images/GraphVideo2.mp4" muted loop autoplay alt="alternative">
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6 col-xl-5">
+                    <div class="text-container">
+                        <h2>How The Prediction Works</h2>
+                        <p> This project analyzes market trends and forecasts the price based on the attributes one needs. 
+                            The application of Random Forest Regressor on the attribute datasets
+                             yields promising results by developing adaptive, automated and intelligent price prediction symptoms.
+                        </p>
+                        <a class="btn-solid-reg" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Learn More</a> <a class="btn-outline-reg" href="{{url_for('predict')}}">Predict Price</a>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of project 2 -->
+
+
+    <!-- Details Modal -->
+    <div id="staticBackdrop" class="modal fade" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="row">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="col-lg-8">
+                        <div class="image-container">
+                            <img class="img-fluid" src="../static/images/carmodal.jpeg" alt="alternative">
+                        </div> <!-- end of image-container -->
+                    </div> <!-- end of col -->
+                    <div class="col-lg-4">
+                        <h3>Goals Setting</h3>
+                        <hr>
+                        <p>The app demonstrate how the Automotive Industry could harness data to take informed decisions.</p>
+                        <h4>Attributes Used</h4>
+                        <p>The below are the attributes of a car used to train the model to predict the price based on the feature importance</p>
+                        <ul class="list-unstyled li-space-lg">
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Engine Size</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Fuel Tank Capacity</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">City Mileage</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Fuel Type</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Gear Type</div>
+                            </li>
+                        </ul>
+                        <a id="modalCtaBtn" class="btn-solid-reg" href="#contact">Contact</a>
+                        <button type="button" class="btn-outline-reg" data-bs-dismiss="modal">Close</button>
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+            </div> <!-- end of modal-content -->
+        </div> <!-- end of modal-dialog -->
+    </div> <!-- end of modal -->
+    <!-- end of details modal -->
+
+    <!-- About -->
+    <div id="about" class="counter">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="h2-heading">Prediction Analysis</h2>
+                    <hr class="hr-heading">
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-xl-6">
+                    <ul class="list-unstyled">
+                        <li class="d-flex">
+                            <h5 class="number">1.</h5>
+                            <div class="flex-grow-1">
+                                <h5>Linear Regression Model</h5>
+                                <div class="text">A Linear Regression model to predict the car prices for the Indian market to help a new 
+                                    entrant understand important pricing factors/variables in the automobile industry. 
+                                </div>
+                            </div>
+                        </li>
+                        <li class="d-flex">
+                            <h5 class="number">2.</h5>
+                            <div class="flex-grow-1">
+                                <h5>Decision Tree Classifier</h5>
+                                <div class="text"> Predict the car prices for the Indian market to help a new 
+                                    entrant understand important pricing factors/variables in the automobile industry.</div>
+                            </div>
+                        </li>
+                        <li class="d-flex">
+                            <h5 class="number">3.</h5>
+                            <div class="flex-grow-1">
+                                <h5>Random Forest Classifier</h5>
+                                <div class="text">A highly comprehensive 
+                                    analysis with all data cleaning, exploration, visualization, 
+                                    feature selection, model building, evaluation and MLR assumptions validity steps explained in detail.</div>
+                            </div>
+                        </li>
+                    </ul>
+                </div> <!-- end of col -->
+                <div class="col-xl-6">
+                    
+                    <!-- Counter -->
+                    <div class="counter-container">
+                        <div class="counter-cell">
+                            <div data-purecounter-start="0" data-purecounter-end="61.76" data-purecounter-duration="3" class="purecounter">1</div>
+                            <div class="counter-info">Linear Regression</div>
+                        </div> <!-- end of counter-cell -->
+                        <div class="counter-cell">
+                            <div data-purecounter-start="0" data-purecounter-end="87.93" data-purecounter-duration="1.5" class="purecounter">1</div>
+                            <div class="counter-info">Decision Tree Classifier</div>
+                        </div> <!-- end of counter-cell -->
+                        <div class="counter-cell">
+                            <div data-purecounter-start="0" data-purecounter-end="89.88" data-purecounter-duration="3" class="purecounter">1</div>
+                            <div class="counter-info">Random Forest</div>
+                        </div> <!-- end of counter-cell -->
+                        <div class="counter-cell">
+                            <div data-purecounter-start="0" data-purecounter-end="1241" data-purecounter-duration="3" class="purecounter">1</div>
+                            <div class="counter-info">Data Entries</div>
+                        </div> <!-- end of counter-cell -->
+                    </div> <!-- end of counter-container -->
+                    <!-- end of counter -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of counter -->
+    <!-- end of about -->
+
+    <!-- Team -->
+    <div class="cards-2 bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="h2-heading">Project Developer</h2>
+                    <p class="p-heading">I am a very enthusiastic and curious person and find myself exploring new technologies and domains. I code in C++ and have a keen interest in the domains of web development and Machine learning.</p>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="../static/images/SamyaTA.jpeg" alt="alternative">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Samya Jain</h5>
+                            <p class="card-text">Developer</p>
+                            <span class="fa-stack">
+                                <a href="https://twitter.com/Samya02_">
+                                    <i class="fas fa-circle fa-stack-2x"></i>
+                                    <i class="fab fa-twitter fa-stack-1x"></i>
+                                </a>
+                            </span>
+                            <span class="fa-stack">
+                                <a href="https://www.linkedin.com/in/samya-jain-a68443204/">
+                                    <i class="fas fa-circle fa-stack-2x"></i>
+                                    <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                                </a>
+                            </span>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+    
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of cards-2 -->
+    <!-- end of team -->
+
+
+    <!-- Contact -->
+    <div id="contact" class="form-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="h2-heading">Let us know what's in your mind!</h2>
+                    
+                    <ul class="list-unstyled li-space-lg">
+                        <li><i class="fas fa-map-marker-alt"></i> &nbsp; XYZ, main road Kashmere gate, Delhi 110012</li>
+                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:00817202212">+81 720 2212</a></li>
+                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:samyajain02@gmail.com">samyajain02@gmail.com</a></li>
+                    </ul>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-10 offset-lg-1">
+                    
+                    <!-- Contact Form -->
+                    <form>
+                        <div class="form-group">
+                            <input type="text" class="form-control-input" placeholder="Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control-input" placeholder="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control-textarea" placeholder="Message" required></textarea>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="form-control-submit-button">Submit</button>
+                        </div>
+                    </form>
+                    <!-- end of contact form -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of form-1 -->
+    <!-- end of contact -->
+
+</section>
+<!-- Libraries -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"
+  integrity="sha512-8E3KZoPoZCD+1dgfqhPbejQBnQfBXe8FuwL4z/c8sTrgeDMFEnoyTlH3obB4/fV+6Sg0a0XF+L/6xS4Xx1fUEg=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/debug.addIndicators.min.js"
+  integrity="sha512-RvUydNGlqYJapy0t4AH8hDv/It+zKsv4wOQGb+iOnEfa6NnF2fzjXgRy+FDjSpMfC3sjokNUzsfYZaZ8QAwIxg=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/animation.gsap.min.js"
+  integrity="sha512-5/OHwmQzDSBS0Ous4/hlYoWLHd06/d2r7LdKZQVBXOA6PvOqWVXtdboiLTU7lQTGyVoKVTNkwi0ol4gHGlw5ww=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenLite.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TimelineLite.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/CSSPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/BezierPlugin.min.js"></script>
+<script src="{{url_for('static', filename='js/car.js')}}"></script>
+<script src="../static/js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+    <script src="../static/js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
+    <script src="../static/js/purecounter.min.js"></script> <!-- Purecounter counter for statistics numbers -->
+    <script src="../static/js/scripts.js"></script> <!-- Custom scripts -->
+    
+<!-- Scripts -->
+
+{% endblock %}

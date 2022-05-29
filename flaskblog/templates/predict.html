@@ -1,0 +1,165 @@
+{%extends "layout.html"%}
+
+{% block head %}
+
+<link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Poppins:wght@600&display=swap"
+    rel="stylesheet">
+<link href="../static/css/bootstrap.min.css" rel="stylesheet">
+<link href="../static/css/fontawesome-all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{url_for('static', filename='css/home.css')}}">
+<link rel="stylesheet" href="{{url_for('static', filename='css/swiper.css')}}">
+<link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+{% endblock %}
+
+{% block content %}
+<!-- Header -->
+<header class="ex-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-10 offset-xl-1">
+                <h1>Predict the price</h1>
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of container -->
+</header> <!-- end of ex-header -->
+<!-- end of header -->
+
+<!-- Basic -->
+<div class="ex-basic-1 pt-4" style="background-image: url('../static/images/bg.webp'); background-size: cover;
+background-repeat: no-repeat;">
+        <div class="feature-car-rent-box-1" style="font-family: 'Times New Roman', Times, serif; margin-right: 150px; font-size: 1.1rem; font-weight: bold; text-align: center;">
+            <h3>{{ prediction_text }}</h3>
+        </div>
+        <div class="container" style="color: rgb(31, 8, 8);
+        margin-top: 2vh;
+        padding: 50px;
+        width: 855px;
+        /* background-color: rgba(255, 255, 255, 0.884); */
+        border-radius: 25px;
+        font-size: 1rem;
+        font-weight: bold;">
+                
+                        <form action="{{ url_for('predict')}}" method="post">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <div class="col-md-10 form-group" style="text-align: center;">
+                                    <span>Enter Engine Size(in cc)</span><br>
+                                    <input class="spec form-control-input" name="Displacement" type="number " placeholder="eg. 1197">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-10 form-group" style="text-align: center;">
+                                    <span>Enter Fuel Tank Capacity(in litres)</span><br>
+                                    <input class="spec form-control-input" name="capacity" type="number " placeholder="eg. 37">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-10 form-group" style="text-align: center;">
+                                    <span>City Mileage(in km/litre)</span><br>
+                                    <input class="spec form-control-input" name="citymileage" required="required"
+                                        placeholder="eg. 15">
+                                        </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-10 form-group" style="text-align: center;">
+                                    <span>Fuel type</span><br>
+                                    <select name="Fuel_Type_Petrol" class="spec form-control-input" required="required">
+                                        <option value="Petrol">Petrol</option>
+                                        <option value="Diesel">Diesel</option>
+                                        <option value="CNG">CNG</option>
+                                        <option value="Electric">Electric</option>
+                                        <option value="Hybrid">Hybrid</option>
+                                    </select>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-10 form-group" style="text-align: center;">
+                                    <span>Transmission type</span><br>
+                                    <select name="Transmission_Mannual" class="spec form-control-input" required="required">
+                                        <option value="Mannual">Manual Car</option>
+                                        <option value="Automatic">Automatic Car</option>
+                                    </select>
+                                    </div>
+                                </li>
+
+
+                            </ul>
+                            <div class="d-flex align-items-center bg-light p-3">
+                                <!-- <span>$150/day</span> -->
+                                <button id="sub" class="ml-auto btn btn-primary" type="submit" style="align-items: center;
+                                text-align: center;
+                                width: 200px;
+                                margin-right: 320px;
+                                padding-left: 20px;
+                                padding-right: 20px;
+                                /* margin: 50px; */
+                                background-color: #ff4449;
+                                color: white;
+                                font-weight: bold;">Predict Price</button>
+                                <!-- <a href="contact.html" class="ml-auto btn btn-primary">Rent Now</a> -->
+                            </div>
+
+
+
+
+                        </form>
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- <script>
+
+    function load_car_models(company_id, Model_id)
+    {
+        var company = document.getElementById(company_id);
+        var Model = document.getElementById(Model_id);
+        console.log(company.value);
+        Model.value="";
+        Model.innerHTML="";
+
+        {% for company in Make %}
+
+            if(company.value == "{{company}}")
+            {
+                {% for Model in Model %}
+                    {% if company in Model %}
+                        var newOption = document.createElement("option");
+                        newOption.value = "{{ Model }}";
+                        newOption.innerHTML = "{{ model }}";
+                        Model.options.add(newOption);
+                    {% endif %}   
+
+                {% endfor%}  
+            }
+        {% endfor %}
+    }
+</script> -->
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"
+    integrity="sha512-8E3KZoPoZCD+1dgfqhPbejQBnQfBXe8FuwL4z/c8sTrgeDMFEnoyTlH3obB4/fV+6Sg0a0XF+L/6xS4Xx1fUEg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/debug.addIndicators.min.js"
+    integrity="sha512-RvUydNGlqYJapy0t4AH8hDv/It+zKsv4wOQGb+iOnEfa6NnF2fzjXgRy+FDjSpMfC3sjokNUzsfYZaZ8QAwIxg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/animation.gsap.min.js"
+    integrity="sha512-5/OHwmQzDSBS0Ous4/hlYoWLHd06/d2r7LdKZQVBXOA6PvOqWVXtdboiLTU7lQTGyVoKVTNkwi0ol4gHGlw5ww=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenLite.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TimelineLite.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/CSSPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/BezierPlugin.min.js"></script>
+<script src="{{url_for('static', filename='js/car.js')}}"></script>
+<script src="../static/js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+<script src="../static/js/scripts.js"></script>
+{% endblock %}

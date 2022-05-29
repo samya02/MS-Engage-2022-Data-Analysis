@@ -1,0 +1,1277 @@
+,Make,Ex-Showroom_Price,Displacement,Fuel_Tank_Capacity,Fuel_Type,City_Mileage,Type
+0,Tata Nano Genx Xt,"Rs. 2,92,667",624 cc,24 litres,Petrol,?23.6 km/litre,Manual
+1,Tata Nano Genx Xe,"Rs. 2,36,447",624 cc,24 litres,Petrol,?23.6 km/litre,Manual
+2,Tata Nano Genx Emax Xm,"Rs. 2,96,661",624 cc,15 litres,CNG,,Manual
+3,Tata Nano Genx Xta,"Rs. 3,34,768",624 cc,24 litres,Petrol,?23.6 km/litre,Automatic
+4,Tata Nano Genx Xm,"Rs. 2,72,223",624 cc,24 litres,Petrol,?23.6 km/litre,Manual
+5,Tata Nano Genx Xma,"Rs. 3,14,815",624 cc,24 litres,Petrol,?23.6 km/litre,Automatic
+6,Datsun Redi-Go D,"Rs. 2,79,650",799 cc,28 litres,Petrol,21.38 km/litre,Manual
+7,Datsun Redi-Go T,"Rs. 3,51,832",799 cc,28 litres,Petrol,21.38 km/litre,Manual
+8,Datsun Redi-Go A,"Rs. 3,33,419",799 cc,28 litres,Petrol,21.38 km/litre,Manual
+9,Datsun Redi-Go S,"Rs. 3,62,000",799 cc,28 litres,Petrol,21.38 km/litre,Manual
+10,Datsun Redi-Go 1.0 S,"Rs. 3,90,000",999 cc,28 litres,Petrol,,Manual
+11,Datsun Redi-Go 1.0 S Amt,"Rs. 4,37,065",999 cc,28 litres,Petrol,,Automatic
+12,Renault Kwid Rxe 0.8,"Rs. 3,53,290",799 cc,28 litres,Petrol,25.17 km/litre,Manual
+13,Renault Kwid Std 0.8,"Rs. 2,83,290",799 cc,28 litres,Petrol,25.17 km/litre,Manual
+14,Renault Kwid Rxl 0.8,"Rs. 3,83,290",799 cc,28 litres,Petrol,25.17 km/litre,Manual
+15,Renault Kwid Rxt 0.8,"Rs. 4,13,290",799 cc,28 litres,Petrol,25.17 km/litre,Manual
+16,Renault Kwid Rxt 1.0,"Rs. 4,33,290",999 cc,28 litres,Petrol,25.17 km/litre,Manual
+17,Renault Kwid Climber 1.0 Mt,"Rs. 4,54,490",999 cc,28 litres,Petrol,25.17 km/litre,Manual
+18,Renault Kwid Rxt Amt 1.0,"Rs. 4,63,290",999 cc,28 litres,Petrol,25.17 km/litre,Automatic
+19,Renault Kwid Climber Amt 1.0,"Rs. 4,84,490",999 cc,28 litres,Petrol,25.17 km/litre,Automatic
+20,Renault Kwid Rxt (O) 1.0,"Rs. 4,40,990",999 cc,28 litres,Petrol,25.17 km/litre,Manual
+21,Renault Kwid Rxt (O) Amt 1.0,"Rs. 4,70,990",999 cc,28 litres,Petrol,25.17 km/litre,Automatic
+22,Renault Kwid Climber (O) Mt 1.0,"Rs. 4,62,190",999 cc,28 litres,Petrol,25.17 km/litre,Manual
+23,Renault Kwid Climber (O) Amt 1.0,"Rs. 4,92,190",999 cc,28 litres,Petrol,25.17 km/litre,Automatic
+24,Maruti Suzuki Eeco 5 Str,"Rs. 3,52,136",1196 cc,40 litres,Petrol,12 km/litre,Manual
+25,Maruti Suzuki Eeco 7 Str,"Rs. 3,80,573",1196 cc,40 litres,Petrol,12 km/litre,Manual
+26,Maruti Suzuki Eeco 5 Str With Ac+Htr,"Rs. 3,92,967",1196 cc,40 litres,Petrol,11 km/litre,Manual
+27,Maruti Suzuki Eeco 5 Str With Ac+Htr Cng,"Rs. 4,66,057",1196 cc,40 litres,CNG,,Manual
+28,Maruti Suzuki Eeco 5 Str With Htr Cng,"Rs. 4,25,255",1196 cc,40 litres,CNG,,Manual
+29,Maruti Suzuki Alto K10 Lxi,"Rs. 3,77,588",998 cc,35 litres,Petrol,14 km/litre,Manual
+30,Maruti Suzuki Alto K10 Vxi,"Rs. 3,94,036",998 cc,35 litres,Petrol,14 km/litre,Manual
+31,Maruti Suzuki Alto K10 Lx,"Rs. 3,60,843",998 cc,35 litres,Petrol,19 km/litre,Manual
+32,Maruti Suzuki Alto K10 Vxi (O),"Rs. 4,07,238",998 cc,35 litres,Petrol,14 km/litre,Manual
+33,Maruti Suzuki Alto K10 Lxi Cng (O),"Rs. 4,39,777",998 cc,35 litres,CNG,,Manual
+34,Maruti Suzuki Alto K10 Vxi Amt (O),"Rs. 4,38,559",998 cc,35 litres,Petrol,14 km/litre,Automatic
+35,Datsun Go D,"Rs. 3,74,990",1198 cc,35 litres,Petrol,,Manual
+36,Datsun Go T,"Rs. 4,68,229",1198 cc,35 litres,Petrol,,Manual
+37,Datsun Go T (O),"Rs. 5,02,492",1198 cc,35 litres,Petrol,20.6 km/litre,Manual
+38,Datsun Go A (O),"Rs. 4,99,990",1198 cc,35 litres,Petrol,20.6 km/litre,Manual
+39,Datsun Go A,"Rs. 4,69,990",1198 cc,35 litres,Petrol,20.6 km/litre,Manual
+40,Datsun Go T Vdc,"Rs. 5,28,464",1198 cc,35 litres,Petrol,,Manual
+41,Datsun Go T (O) Vdc,"Rs. 5,53,015",1198 cc,35 litres,Petrol,20.6 km/litre,Manual
+42,Datsun Go T Cvt,"Rs. 5,94,464",1198 cc,35 litres,Petrol,,Manual
+43,Datsun Go T (O) Cvt,"Rs. 6,18,015",1198 cc,35 litres,Petrol,20.6 km/litre,Manual
+44,Maruti Suzuki Celerio Tour H2,"Rs. 4,22,444",998 cc,35 litres,Petrol,23 km/litre,Manual
+45,Maruti Suzuki Celerio Tour H2 Cng,"Rs. 4,80,670",998 cc,60 litres,CNG,,Manual
+46,Hyundai Santro Era Mt,"Rs. 4,29,990",1086 cc,35 litres,Petrol,,Manual
+47,Hyundai Santro Magna Mt,"Rs. 5,03,990",1086 cc,35 litres,Petrol,,Manual
+48,Hyundai Santro Magna Mt Cng,"Rs. 5,47,990",1086 cc,35 litres,CNG,,Manual
+49,Hyundai Santro Magna Amt,"Rs. 5,30,990",1086 cc,35 litres,Petrol,,AMT
+50,Hyundai Santro Sportz Mt,"Rs. 5,12,990",1086 cc,35 litres,Petrol,,Manual
+51,Hyundai Santro Sportz Mt Cng,"Rs. 5,78,990",1086 cc,60 litres,CNG,,Manual
+52,Hyundai Santro Sportz Amt,"Rs. 5,70,990",1086 cc,35 litres,Petrol,,AMT
+53,Hyundai Santro Asta Mt,"Rs. 5,56,490",1086 cc,35 litres,Petrol,,Manual
+54,Tata Tiago Revotron Xe,"Rs. 4,60,000",1199 cc,35 litres,Petrol,,Manual
+55,Tata Tiago Revotron Xt,"Rs. 5,20,000",1199 cc,35 litres,Petrol,23.84 km/litre,Manual
+56,Tata Tiago Revotron Xz,"Rs. 5,70,000",1199 cc,35 litres,Petrol,23.84 km/litre,Manual
+57,Tata Tiago Revotron Xz Plus,"Rs. 5,99,000",1199 cc,35 litres,Petrol,23.84 km/litre,Manual
+58,Tata Tiago Revotron Xz Plus Dual Tone,"Rs. 6,10,000",1199 cc,35 litres,Petrol,23.84 km/litre,Manual
+59,Tata Tiago Revotron Xza,"Rs. 6,20,000",1199 cc,35 litres,Petrol,23.84 km/litre,AMT
+60,Tata Tiago Revotron Xza Plus,"Rs. 6,49,000",1199 cc,35 litres,Petrol,23.84 km/litre,AMT
+61,Tata Tiago Revotron Xza Plus Dual Tone,"Rs. 6,60,000",1199 cc,35 litres,Petrol,23.84 km/litre,AMT
+62,Maruti Suzuki Celerio X Vxi (O),"Rs. 4,81,074",998 cc,35 litres,Petrol,23 km/litre,Manual
+63,Maruti Suzuki Celerio X Vxi,"Rs. 4,75,198",998 cc,35 litres,Petrol,23 km/litre,Manual
+64,Maruti Suzuki Celerio X Vxi Amt,"Rs. 5,18,198",998 cc,35 litres,Petrol,23 km/litre,Automatic
+65,Maruti Suzuki Celerio X Vxi Amt (O),"Rs. 5,24,074",998 cc,35 litres,Petrol,23 km/litre,Automatic
+66,Maruti Suzuki Celerio X Zxi,"Rs. 4,99,734",998 cc,35 litres,Petrol,23 km/litre,Manual
+67,Maruti Suzuki Celerio X Zxi (O),"Rs. 5,40,350",998 cc,35 litres,Petrol,23 km/litre,Manual
+68,Maruti Suzuki Celerio X Zxi Amt,"Rs. 5,42,735",998 cc,35 litres,Petrol,23 km/litre,Automatic
+69,Maruti Suzuki Celerio X Zxi Amt (O),"Rs. 5,52,350",998 cc,35 litres,Petrol,23 km/litre,Automatic
+70,Maruti Suzuki Ignis Alpha 1.2 Amt,"Rs. 7,13,898",1197 cc,32 litres,Petrol,20.89 km/litre,AMT
+71,Maruti Suzuki Ignis Alpha 1.2 Mt,"Rs. 6,66,898",1197 cc,32 litres,Petrol,20.89 km/litre,Manual
+72,Maruti Suzuki Ignis Delta 1.2 Amt,"Rs. 6,07,841",1197 cc,32 litres,Petrol,20.89 km/litre,AMT
+73,Maruti Suzuki Ignis Delta 1.2 Mt,"Rs. 5,60,841",1197 cc,32 litres,Petrol,20.89 km/litre,Manual
+74,Maruti Suzuki Ignis Sigma 1.2 Mt,"Rs. 4,83,320",1197 cc,32 litres,Petrol,20.89 km/litre,Manual
+75,Maruti Suzuki Ignis Zeta 1.2 Amt,"Rs. 6,30,320",1197 cc,32 litres,Petrol,15.1 km/litre,AMT
+76,Maruti Suzuki Ignis Zeta 1.2 Mt,"Rs. 5,83,320",1197 cc,32 litres,Petrol,20.89 km/litre,Manual
+77,Renault Triber Rxe,"Rs. 4,95,000",999 cc,40 litres,Petrol,,Manual
+78,Renault Triber Rxl,"Rs. 5,59,000",999 cc,40 litres,Petrol,,Manual
+79,Renault Triber Rxt,"Rs. 6,09,000",999 cc,40 litres,Petrol,,Manual
+80,Renault Triber Rxz,"Rs. 6,63,000",999 cc,40 litres,Petrol,,Manual
+81,Premier Rio Gx,"Rs. 5,06,000",1173 cc,46 litres,Petrol,13 km/litre,Manual
+82,Premier Rio Ex,"Rs. 5,68,623",1489 cc,46 litres,Diesel,12 km/litre,Manual
+83,Premier Rio Glx,"Rs. 6,70,000",1173 cc,46 litres,Petrol,13 km/litre,Manual
+84,Premier Rio Dx,"Rs. 6,03,000",1489 cc,46 litres,Diesel,12 km/litre,Manual
+85,Premier Rio Lx,"Rs. 7,39,000",1489 cc,46 litres,Diesel,12 km/litre,Manual
+86,Premier Rio Crdi4,"Rs. 7,39,000",1248 cc,46 litres,Diesel,20 km/litre,Manual
+87,Toyota Etios Liva G,"Rs. 5,20,300",1197 cc,45 litres,Petrol,15.1 km/litre,Manual
+88,Toyota Etios Liva V,"Rs. 5,81,000",1197 cc,45 litres,Petrol,15.1 km/litre,Manual
+89,Toyota Etios Liva Gd,"Rs. 6,47,800",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+90,Toyota Etios Liva Vx,"Rs. 6,30,000",1197 cc,45 litres,Petrol,15.1 km/litre,Manual
+91,Toyota Etios Liva Vxd,"Rs. 7,45,000",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+92,Toyota Etios Liva Vd,"Rs. 7,04,000",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+93,Toyota Etios Liva Dual Tone V,"Rs. 5,97,700",1197 cc,45 litres,Petrol,15.1 km/litre,Manual
+94,Toyota Etios Liva Dual Tone Vd,"Rs. 7,20,700",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+95,Toyota Etios Liva Dual Tone Vx,"Rs. 6,41,700",1197 cc,45 litres,Petrol,15.1 km/litre,Manual
+96,Toyota Etios Liva Dual Tone Vxd,"Rs. 7,56,700",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+97,Toyota Etios Liva Gx,"Rs. 5,58,400",1197 cc,45 litres,Petrol,15.1 km/litre,Manual
+98,Toyota Etios Liva Gxd,"Rs. 6,86,000",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+99,Toyota Etios Liva Vx Dual Tone Limited Edition,"Rs. 6,62,700",1197 cc,45 litres,Petrol,15.1 km/litre,Manual
+100,Toyota Etios Liva Vxd Dual Tone Limited Edition,"Rs. 7,77,700",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+101,Nissan Micra Active Xl,"Rs. 5,25,021",1198 cc,41 litres,Petrol,,Manual
+102,Nissan Micra Active Xv,"Rs. 5,99,950",1198 cc,41 litres,Petrol,19.49 km/litre,Manual
+103,Nissan Micra Active Xl (O),"Rs. 5,63,133",1198 cc,41 litres,Petrol,,Manual
+104,Tata Bolt Xt Diesel,"Rs. 7,87,980",1248 cc,44 litres,Diesel,"22,95 km/litre",Manual
+105,Tata Bolt Xe Diesel,"Rs. 6,61,111",1248 cc,44 litres,Diesel,"22,95 km/litre",Manual
+106,Tata Bolt Xm Diesel,"Rs. 6,93,798",1248 cc,44 litres,Diesel,"22,95 km/litre",Manual
+107,Tata Bolt Xms Diesel,"Rs. 7,19,661",1248 cc,44 litres,Diesel,"22,95 km/litre",Manual
+108,Tata Bolt Xt Petrol,"Rs. 6,74,960",1193 cc,44 litres,Petrol,"17,57 km/litre",Manual
+109,Tata Bolt Xe Petrol,"Rs. 5,29,035",1193 cc,44 litres,Petrol,"17,57 km/litre",Manual
+110,Tata Bolt Xm Petrol,"Rs. 5,90,268",1193 cc,44 litres,Petrol,"17,57 km/litre",Manual
+111,Tata Bolt Xms Petrol,"Rs. 6,14,515",1193 cc,44 litres,Petrol,"17,57 km/litre",Manual
+112,Hyundai Xcent Prime Cng T + (Cng +,"Rs. 5,56,130",1197 cc,43 litres,CNG + Petrol,,Manual
+113,Hyundai Xcent Prime T,"Rs. 5,36,859",1197 cc,43 litres,Petrol,,Manual
+114,Hyundai Xcent Prime T+,"Rs. 5,56,130",1197 cc,43 litres,Petrol,,Manual
+115,Hyundai Xcent Prime Cng T (Cng +,"Rs. 5,36,859",1197 cc,43 litres,CNG + Petrol,,Manual
+116,Hyundai Xcent Prime T+ Crdi,"Rs. 6,39,616",1197 cc,43 litres,Diesel,,Manual
+117,Hyundai Xcent Prime T Crdi,"Rs. 6,20,297",1197 cc,43 litres,Diesel,,Manual
+118,Maruti Suzuki Dzire Tour Ldi,"Rs. 6,53,523",1248 cc,42 litres,Diesel,14.6 km/litre,Manual
+119,Maruti Suzuki Dzire Tour Lxi,"Rs. 5,53,423",1197 cc,42 litres,Petrol,16.3 km/litre,Manual
+120,Maruti Suzuki Dzire Tour Lxi Cng,"Rs. 5,98,940",1197 cc,42 litres,CNG,,Manual
+121,Hyundai Elite I20 Era 1.2,"Rs. 5,59,693",1197 cc,45 litres,Petrol,13.3 km/litre,Manual
+122,Hyundai Elite I20 Era 1.4 Crdi,"Rs. 6,97,803",1396 cc,45 litres,Diesel,18.4 km/litre,Manual
+123,Hyundai Elite I20 Magna Plus,"Rs. 6,34,950",1197 cc,45 litres,Petrol,13.3 km/litre,Manual
+124,Hyundai Elite I20 Magna Plus Crdi,"Rs. 7,70,803",1396 cc,45 litres,Diesel,18.4 km/litre,Manual
+125,Hyundai Elite I20 Sportz Plus,"Rs. 7,21,693",1197 cc,45 litres,Petrol,13.3 km/litre,Manual
+126,Hyundai Elite I20 Sportz Plus Crdi Dual Tone,"Rs. 8,76,103",1396 cc,45 litres,Diesel,18.4 km/litre,Manual
+127,Hyundai Elite I20 Asta (O) 1.2,"Rs. 8,08,993",1197 cc,45 litres,Petrol,13.3 km/litre,Manual
+128,Hyundai Elite I20 Asta (O) Crdi,"Rs. 9,34,003",1396 cc,45 litres,Diesel,18.4 km/litre,Manual
+129,Hyundai Elite I20 Asta (O) Cvt,"Rs. 9,20,993",1197 cc,45 litres,Petrol,13.3 km/litre,Automatic
+130,Hyundai Elite I20 Sportz Plus Dual Tone,"Rs. 7,51,693",1197 cc,45 litres,Petrol,13.3 km/litre,Manual
+131,Hyundai Elite I20 Sportz Plus Cvt,"Rs. 8,31,693",1197 cc,45 litres,Petrol,13.3 km/litre,Manual
+132,Hyundai Elite I20 Sportz Plus Crdi,"Rs. 8,46,103",1396 cc,45 litres,Diesel,18.4 km/litre,Manual
+133,Hyundai Aura E 1.2 Petrol,"Rs. 5,79,900",1197 cc,37 litres,Petrol,,Manual
+134,Hyundai Aura S 1.2 Petrol,"Rs. 6,55,900",1197 cc,37 litres,Petrol,,Manual
+135,Hyundai Aura S 1.2 Amt Petrol,"Rs. 7,05,800",1197 cc,37 litres,Petrol,,Automatic
+136,Hyundai Aura Sx 1.2 Petrol,"Rs. 7,29,900",1197 cc,37 litres,Petrol,,Manual
+137,Hyundai Aura Sx Plus 1.2 Amt Petrol,"Rs. 8,04,800",1197 cc,37 litres,Petrol,,Automatic
+138,Hyundai Aura Sx (O) 1.2 Petrol,"Rs. 7,85,900",1197 cc,37 litres,Petrol,,Manual
+139,Hyundai Aura S 1.2 Cng Petrol (Cng +,"Rs. 7,28,900",1197 cc,37 litres,CNG + Petrol,,Manual
+140,Hyundai Aura Sx Plus 1.0 Petrol,"Rs. 8,54,900",998 cc,37 litres,Petrol,,Manual
+141,Hyundai Aura S 1.2 Diesel,"Rs. 7,73,800",1186 cc,37 litres,Diesel,,Manual
+142,Hyundai Aura S 1.2 Amt Diesel,"Rs. 8,23,700",1186 cc,37 litres,Diesel,,Automatic
+143,Hyundai Aura Sx Plus 1.2 Amt Diesel,"Rs. 9,22,700",1186 cc,37 litres,Diesel,,Automatic
+144,Hyundai Aura Sx (O) 1.2 Diesel,"Rs. 9,03,800",1186 cc,37 litres,Diesel,,Manual
+145,Volkswagen Polo Trendline 1.0L (P),"Rs. 5,82,000",999 cc,45 litres,Petrol,14 km/litre,Manual
+146,Volkswagen Polo Comfortline 1.0 (P),"Rs. 6,76,500",999 cc,45 litres,Petrol,14 km/litre,Manual
+147,Volkswagen Polo Highline Plus 1.0 (P),"Rs. 7,76,500",999 cc,45 litres,Petrol,14 km/litre,Manual
+148,Volkswagen Polo Trendline 1.5L (D),"Rs. 7,34,500",1498 cc,45 litres,Diesel,19 km/litre,Manual
+149,Volkswagen Polo Comfortline 1.5 (D),"Rs. 8,51,500",1498 cc,45 litres,Diesel,19 km/litre,Manual
+150,Volkswagen Polo Highline Plus 1.5 (D),"Rs. 9,31,500",1498 cc,45 litres,Diesel,19 km/litre,Manual
+151,Volkswagen Polo Gt Tsi,"Rs. 9,76,000",1197 cc,45 litres,Petrol,17 km/litre,Automatic
+152,Volkswagen Polo Gt Tdi,"Rs. 9,88,500",1498 cc,45 litres,Diesel,19 km/litre,Manual
+153,Maruti Suzuki Dzire Lxi,"Rs. 5,82,613",1197 cc,37 litres,Petrol,16.3 km/litre,Manual
+154,Maruti Suzuki Dzire Vxi,"Rs. 6,73,112",1197 cc,37 litres,Petrol,16.3 km/litre,Manual
+155,Maruti Suzuki Dzire Ldi,"Rs. 6,66,622",1248 cc,37 litres,Diesel,"28,4 km/litre",Manual
+156,Maruti Suzuki Dzire Zxi,"Rs. 7,32,113",1197 cc,37 litres,Petrol,16.3 km/litre,Manual
+157,Maruti Suzuki Dzire Vdi,"Rs. 7,57,622",1248 cc,37 litres,Diesel,28.4 km/litre,Manual
+158,Maruti Suzuki Dzire Vxi Amt,"Rs. 7,20,112",1197 cc,37 litres,Petrol,16.3 km/litre,Automatic
+159,Maruti Suzuki Dzire Zdi Amt,"Rs. 8,63,122",1248 cc,37 litres,Diesel,28.4 km/litre,Automatic
+160,Maruti Suzuki Dzire Zdi,"Rs. 8,16,622",1248 cc,37 litres,Diesel,"28,4 km/litre",Manual
+161,Maruti Suzuki Dzire Zxi Plus,"Rs. 8,21,613",1197 cc,37 litres,Petrol,16.3 km/litre,Manual
+162,Maruti Suzuki Dzire Zxi At,"Rs. 7,79,113",1197 cc,37 litres,Petrol,16.3 km/litre,Automatic
+163,Maruti Suzuki Dzire Zxi Plus Amt,"Rs. 8,68,613",1197 cc,37 litres,Petrol,16.3 km/litre,Automatic
+164,Maruti Suzuki Dzire Zdi Plus,"Rs. 9,06,122",1248 cc,37 litres,Diesel,"28,4 km/litre",Manual
+165,Maruti Suzuki Dzire Vdi Amt,"Rs. 8,04,622",1248 cc,37 litres,Diesel,28.4 km/litre,Automatic
+166,Maruti Suzuki Dzire Zdi Plus Amt,"Rs. 9,52,622",1248 cc,37 litres,Diesel,28.4 km/litre,Automatic
+167,Ford Freestyle 1.5L Tdci Ambiente,"Rs. 6,76,400",1498 cc,40 litres,Diesel,,Manual
+168,Ford Freestyle 1.5L Tdci Titanium,"Rs. 7,90,900",1498 cc,40 litres,Diesel,,Manual
+169,Ford Freestyle 1.5L Tdci Titanium Plus,"Rs. 8,36,400",1498 cc,40 litres,Diesel,,Manual
+170,Ford Freestyle 1.2L Ti-Vct Ambiente,"Rs. 5,91,400",1194 cc,42 litres,Petrol,,Manual
+171,Ford Freestyle 1.2L Ti-Vct Titanium,"Rs. 7,21,400",1194 cc,42 litres,Petrol,,Manual
+172,Ford Freestyle 1.2L Ti-Vct Titanium Plus,"Rs. 7,56,400",1194 cc,42 litres,Petrol,,Manual
+173,Ford Freestyle 1.2L Ti-Vct Trend Plus,"Rs. 6,81,400",1194 cc,42 litres,Petrol,,Manual
+174,Ford Freestyle 1.5L Tdci Trend Plus,"Rs. 7,45,900",1498 cc,42 litres,Diesel,,Manual
+175,Volkswagen Ameo Trendline 1.5L Tdi,"Rs. 7,11,500",1498 cc,45 litres,Diesel,15.3 km/litre,Manual
+176,Volkswagen Ameo Comfortline 1.5L Tdi,"Rs. 8,10,500",1498 cc,45 litres,Diesel,15.3 km/litre,Manual
+177,Volkswagen Ameo Highline Plus 1.5L Tdi Dsg,"Rs. 9,99,900",1498 cc,45 litres,Diesel,15.3 km/litre,Automatic
+178,Volkswagen Ameo Highline Plus 1.5L Tdi,"Rs. 9,25,500",1498 cc,45 litres,Diesel,15.3 km/litre,Manual
+179,Volkswagen Ameo Trendline 1.0L,"Rs. 5,94,000",999 cc,45 litres,Petrol,,Manual
+180,Volkswagen Ameo Comfortline 1.0L,"Rs. 6,65,000",999 cc,45 litres,Petrol,,Manual
+181,Volkswagen Ameo Highline Plus 1.0L,"Rs. 7,99,900",999 cc,45 litres,Petrol,,Manual
+182,Volkswagen Ameo Gt Line Tdi Dsg,"Rs. 9,99,900",1498 cc,45 litres,Diesel,15.3 km/litre,Automatic
+183,Ford Aspire 1.2 Ti-Vct Ambiente,"Rs. 5,98,500",1194 cc,42 litres,Petrol,,Manual
+184,Ford Aspire 1.2 Ti-Vct Trend Plus,"Rs. 6,97,400",1194 cc,42 litres,Petrol,,Manual
+185,Ford Aspire 1.2 Ti-Vct Trend,"Rs. 6,63,400",1194 cc,42 litres,Petrol,,Manual
+186,Ford Aspire 1.5 Tdci Ambiente,"Rs. 6,99,400",1498 cc,40 litres,Diesel,,Manual
+187,Ford Aspire 1.5 Tdci Trend,"Rs. 7,37,400",1498 cc,40 litres,Diesel,,Manual
+188,Ford Aspire 1.5 Tdci Trend Plus,"Rs. 7,77,400",1498 cc,40 litres,Diesel,,Manual
+189,Ford Aspire 1.5 Tdci Titanium,"Rs. 8,17,400",1498 cc,40 litres,Diesel,,Manual
+190,Ford Aspire 1.5 Tdci Titanium Plus,"Rs. 8,62,400",1498 cc,40 litres,Diesel,,Manual
+191,Ford Aspire 1.2 Ti-Vct Titanium Plus,"Rs. 7,82,400",1194 cc,42 litres,Petrol,,Manual
+192,Ford Aspire 1.2 Ti-Vct Titanium,"Rs. 7,37,400",1194 cc,42 litres,Petrol,,Manual
+193,Ford Aspire 1.2 Trend Plus Cng,"Rs. 7,58,314",1194 cc,42 litres,CNG,,Manual
+194,Ford Aspire 1.2 Ti-Vct Blu,"Rs. 7,62,400",1194 cc,42 litres,Petrol,,Manual
+195,Ford Aspire 1.5 Tdci Blu,"Rs. 8,42,400",1498 cc,40 litres,Diesel,,Manual
+196,Toyota Platinum Etios G,"Rs. 6,27,100",1496 cc,45 litres,Petrol,"13,6 km/litre",Manual
+197,Toyota Platinum Etios V,"Rs. 7,18,600",1496 cc,45 litres,Petrol,"13,6 km/litre",Manual
+198,Toyota Platinum Etios Gd,"Rs. 7,34,700",1364 cc,45 litres,Diesel,20.32 km/litre,Manual
+199,Toyota Platinum Etios Vd,"Rs. 8,28,600",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+200,Toyota Platinum Etios Vxd,"Rs. 8,88,400",1364 cc,45 litres,Diesel,20.32 km/litre,Manual
+201,Toyota Platinum Etios Vx,"Rs. 7,78,400",1496 cc,45 litres,Petrol,"13,6 km/litre",Manual
+202,Toyota Platinum Etios Gx,"Rs. 6,89,600",1496 cc,45 litres,Petrol,13.6 km/litre,Manual
+203,Toyota Platinum Etios Gxd,"Rs. 7,99,600",1364 cc,45 litres,Diesel,20.3 km/litre,Manual
+204,Toyota Platinum Etios Vxd Limited Edition,"Rs. 9,13,400",1364 cc,45 litres,Diesel,20.32 km/litre,Manual
+205,Toyota Platinum Etios Vx Limited Edition,"Rs. 8,03,400",1496 cc,45 litres,Petrol,13.6 km/litre,Manual
+206,Toyota Etios Cross V,"Rs. 8,02,000",1496 cc,45 litres,Petrol,15 km/litre,Manual
+207,Toyota Etios Cross G,"Rs. 6,50,000",1197 cc,45 litres,Petrol,"16,78 km/litre",Manual
+208,Toyota Etios Cross Vd,"Rs. 7,97,500",1364 cc,45 litres,Diesel,18.1 km/litre,Manual
+209,Toyota Etios Cross Gd,"Rs. 7,66,000",1364 cc,45 litres,Diesel,18.1 km/litre,Manual
+210,Toyota Etios Cross 1.2 X Edition,"Rs. 6,68,500",1197 cc,45 litres,Petrol,16.78 km/litre,Manual
+211,Toyota Etios Cross 1.4 X Edition,"Rs. 8,16,000",1364 cc,45 litres,Diesel,18.1 km/litre,Manual
+212,Mahindra Verito Vibe D2,"Rs. 6,57,628",1461 cc,50 litres,Diesel,18 km/litre,Manual
+213,Mahindra Verito Vibe D4,"Rs. 6,85,729",1461 cc,50 litres,Diesel,18 km/litre,Manual
+214,Mahindra Verito Vibe D6,"Rs. 7,50,428",1461 cc,50 litres,Diesel,18 km/litre,Manual
+215,Fiat Urban Cross 1.3 Multijet Active,"Rs. 6,77,618",1248 cc,45 litres,Diesel,20 km/litre,Manual
+216,Fiat Urban Cross 1.3 Multijet Dynamic,"Rs. 7,39,074",1248 cc,45 litres,Diesel,20 km/litre,Manual
+217,Fiat Urban Cross 1.4 T-Jet Emotion,"Rs. 9,77,516",1368 cc,45 litres,Petrol,17 km/litre,Manual
+218,Fiat Urban Cross 1.3 Multijet Emotion,"Rs. 8,10,211",1248 cc,45 litres,Diesel,20 km/litre,Manual
+219,Toyota Glanza G Hybrid,"Rs. 7,21,900",1197 cc,37 litres,Petrol,,Manual
+220,Toyota Glanza V,"Rs. 7,58,200",1197 cc,37 litres,Petrol,,Manual
+221,Toyota Glanza G Cvt,"Rs. 8,29,900",1197 cc,37 litres,Petrol,,CVT
+222,Toyota Glanza V Cvt,"Rs. 8,90,200",1197 cc,37 litres,Petrol,,CVT
+223,Toyota Glanza G Mt,"Rs. 6,97,900",1197 cc,37 litres,Petrol,,Manual
+224,Fiat Avventura Multijet Dynamic,"Rs. 7,96,132",1248 cc,45 litres,Diesel,11.2 km/litre,Manual
+225,Fiat Avventura Multijet Active,"Rs. 7,11,801",1248 cc,45 litres,Diesel,11.2 km/litre,Manual
+226,Fiat Avventura Multijet Emotion,"Rs. 8,76,341",1248 cc,45 litres,Diesel,11.2 km/litre,Manual
+227,Honda Jazz V Petrol,"Rs. 7,45,000",1199 cc,40 litres,Petrol,11.3 km/litre,Manual
+228,Honda Jazz Vx Cvt,"Rs. 9,09,000",1199 cc,40 litres,Petrol,11.3 km/litre,Automatic
+229,Honda Jazz Vx Petrol,"Rs. 7,89,000",1199 cc,40 litres,Petrol,11.3 km/litre,Manual
+230,Honda Jazz V Cvt,"Rs. 8,65,000",1199 cc,40 litres,Petrol,11.3 km/litre,Automatic
+231,Honda Jazz S Diesel,"Rs. 8,16,500",1498 cc,40 litres,Diesel,12 km/litre,Manual
+232,Honda Jazz V Diesel,"Rs. 8,96,500",1498 cc,40 litres,Diesel,12 km/litre,Manual
+233,Honda Jazz Vx Diesel,"Rs. 9,40,500",1498 cc,40 litres,Diesel,12 km/litre,Manual
+234,Honda Jazz Exclusive Edition Cvt,"Rs. 9,28,000",1199 cc,40 litres,Petrol,,Automatic
+235,Jeep Compass Trailhawk 2.0 Trailhawk 4X4 At,"Rs. 26,80,000",1956 cc,60 litres,Diesel,,Automatic
+236,Jeep Compass Trailhawk 2.0 Trailhawk (O) 4X4 At,"Rs. 27,60,000",1956 cc,60 litres,Diesel,,Automatic
+237,Isuzu Mu-X 4X2,"Rs. 27,34,834",2999 cc,76 litres,Diesel,13.8 km/litre,Automatic
+238,Isuzu Mu-X 4X4,"Rs. 29,31,534",2999 cc,76 litres,Diesel,13.8 km/litre,Automatic
+239,Mahindra Alturas G4 2Wd At,"Rs. 27,70,150",2157 cc,70 litres,Diesel,,Automatic
+240,Mahindra Alturas G4 4Wd At,"Rs. 30,70,150",2157 cc,70 litres,Diesel,,Automatic
+241,Volkswagen Tiguan Comfortline 2.0L Tdi Amt,"Rs. 28,14,500",1968 cc,71 litres,Diesel,,Automatic
+242,Volkswagen Tiguan Highline 2.0L Tdi Amt,"Rs. 31,53,500",1968 cc,71 litres,Diesel,,Automatic
+243,Honda Cr-V 2Wd Petrol Cvt,"Rs. 28,27,001",1997 cc,57 litres,Petrol,,Automatic
+244,Honda Cr-V 2Wd Diesel At,"Rs. 30,67,001",1597 cc,57 litres,Diesel,,Automatic
+245,Honda Cr-V Awd Diesel At,"Rs. 32,77,001",1597 cc,57 litres,Diesel,,Automatic
+246,Skoda Superb Sportline Sportline 1.8L Tsi At,"Rs. 28,99,599",1798 cc,66 litres,Petrol,11.3 km/litre,Automatic
+247,Skoda Superb Sportline Sportline 2.0L Tdi At,"Rs. 31,49,599",1968 cc,66 litres,Diesel,15.1 km/litre,Automatic
+248,Audi A3 35 Tdi Premium Plus,"Rs. 30,21,200",1968 cc,50 litres,Diesel,18 km/litre,Automatic
+249,Audi A3 35 Tdi Technology,"Rs. 32,21,200",1968 cc,50 litres,Diesel,18 km/litre,Automatic
+250,Audi A3 35 Tfsi Premium Plus,"Rs. 29,20,750",1395 cc,50 litres,Petrol,12.4 km/litre,Automatic
+251,Audi A3 35 Tfsi Technology,"Rs. 31,20,750",1395 cc,50 litres,Petrol,12.4 km/litre,Automatic
+252, Mercedes-Benz B-Class B 180 Sport,"Rs. 29,88,311",1595 cc,50 litres,Petrol,9.5 km/litre,Automatic
+253, Mercedes-Benz B-Class B 200 Cdi Sport,"Rs. 30,89,851",2143 cc,50 litres,Diesel,11.5 km/litre,Automatic
+254, Mercedes-Benz B-Class B 180 Night Edition,"Rs. 31,98,662",1595 cc,50 litres,Petrol,9.5 km/litre,Automatic
+255, Mercedes-Benz B-Class B 200 Cdi Night Edition,"Rs. 33,03,282",2143 cc,50 litres,Diesel,11.5 km/litre,Automatic
+256, Mercedes-Benz Cla-Class 200 Sport,"Rs. 35,99,000",1991 cc,56 litres,Petrol,11.04 km/litre,Automatic
+257, Mercedes-Benz Cla-Class 200 Cdi Style,"Rs. 31,72,000",2143 cc,56 litres,Diesel,13.9 km/litre,Automatic
+258, Mercedes-Benz Cla-Class 200 D Sport,"Rs. 36,99,000",2143 cc,56 litres,Diesel,13.9 km/litre,Automatic
+259,Skoda Kodiaq Style 2.0 Tdi 4X4 At,"Rs. 32,99,599",1968 cc,66 litres,Diesel,15.1 km/litre,Automatic
+260,Skoda Kodiaq Laurin And Klement,"Rs. 36,78,599",1968 cc,66 litres,Diesel,15.1 km/litre,Automatic
+261,Skoda Kodiaq Corporate Edition,"Rs. 32,99,599",1968 cc,66 litres,Diesel,15.1 km/litre,Automatic
+262,Dc Avanti Standard,"Rs. 34,07,407",2000 cc,60 litres,Petrol,8 km/litre,Manual
+263,Audi Q3 30 Tdi Premium Fwd,"Rs. 36,77,200",1968 cc,64 litres,Diesel,12 km/litre,Manual
+264,Audi Q3 35 Tdi Quattro Premium Plus,"Rs. 39,92,200",1968 cc,64 litres,Diesel,12 km/litre,Automatic
+265,Audi Q3 35 Tdi Quattro Technology,"Rs. 43,61,000",1968 cc,64 litres,Diesel,12 km/litre,Automatic
+266,Audi Q3 30 Tfsi Premium,"Rs. 34,96,750",1395 cc,64 litres,Petrol,12 km/litre,Automatic
+267,Mini Cooper 5 Door Cooper D,"Rs. 36,00,000",1496 cc,44 litres,Petrol,10.3 km/litre,Automatic
+268,Mini Convertible Cooper S,"Rs. 38,30,000",1998 cc,44 litres,Petrol,,Automatic
+269,Volvo Xc40 D4 Momentum,"Rs. 39,90,000",1969 cc,,Diesel,,Automatic
+270,Volvo Xc40 D4 Inscription,"Rs. 43,90,000",1969 cc,,Diesel,,Automatic
+271,Volvo Xc40 T4 R-Design,"Rs. 39,90,000",1969 cc,54 litres,Petrol,,Automatic
+272,Mini Clubman Cooper S,"Rs. 41,20,000",1998 cc,,Petrol,12.3 km/litre,Manual
+273,Audi A4 Premium Plus 35 Tfsi,"Rs. 41,49,000",1395 cc,54 litres,Petrol,,DCT
+274,Audi A4 Technology 35 Tfsi,"Rs. 45,07,000",1395 cc,54 litres,Petrol,,DCT
+275,Mini John Cooper Works Hatch,"Rs. 43,50,000",1998 cc,44 litres,Petrol,,Automatic
+276,Jaguar Xe S Petrol,"Rs. 44,98,000",1997 cc,61 litres,Petrol,,Automatic
+277,Jaguar Xe S Diesel,"Rs. 44,98,000",1999 cc,56 litres,Diesel,,Automatic
+278,Jaguar Xe Se Diesel,"Rs. 46,33,000",1999 cc,56 litres,Diesel,,Automatic
+279,Jaguar Xe Se Petrol,"Rs. 46,33,000",1997 cc,61 litres,Petrol,,Automatic
+280,Jaguar Xf 2.0 Prestige,"Rs. 54,36,329",1999 cc,74 litres,Petrol,5.7 km/litre,Automatic
+281,Jaguar Xf 2.0 Portfolio,"Rs. 60,73,446",1999 cc,82 litres,Petrol,5.7 km/litre,Automatic
+282,Jaguar Xf 2.0 Portfolio Diesel,"Rs. 61,38,811",1999 cc,83 litres,Diesel,5.7 km/litre,Automatic
+283,Jaguar Xf 2.0 Prestige Diesel,"Rs. 55,06,622",1999 cc,66 litres,Diesel,5.7 km/litre,Automatic
+284,Jaguar Xf 2.0 Pure Diesel,"Rs. 49,77,080",1999 cc,66 litres,Diesel,5.7 km/litre,Automatic
+285,Audi A3 Cabriolet 40 Tfsi,"Rs. 50,38,000",1395 cc,50 litres,Petrol,19.2 km/litre,Automatic
+286,Audi A6 Premium Plus 45 Tfsi,"Rs. 54,42,200",1984 cc,73 litres,Petrol,,Automatic
+287,Audi A6 Technology 45 Tfsi,"Rs. 59,42,200",1984 cc,73 litres,Petrol,,Automatic
+288,Bmw X3 Xdrive 20D Luxury Line,"Rs. 59,30,000",1995 cc,67 litres,Diesel,16 km/litre,Automatic
+289,Bmw X3 Xdrive 30I Luxury Line,"Rs. 58,80,000",1998 cc,67 litres,Petrol,16 km/litre,Automatic
+290,Bmw X3 Xdrive20D Xline,"Rs. 56,00,000",1995 cc,67 litres,Diesel,16 km/litre,Automatic
+291,Land Rover Discovery Sport S,"Rs. 57,06,000",1999 cc,70 litres,Diesel,,Automatic
+292,Land Rover Discovery Sport R-Dynamic Se,"Rs. 60,89,000",1999 cc,70 litres,Diesel,,Automatic
+293,Volvo S90 D4 Inscription,"Rs. 58,90,000",1969 cc,,Diesel,"11,44 km/litre",Automatic
+294,Audi S5 Sportback,"Rs. 72,43,000",2995 cc,58 litres,Petrol,,Automatic
+295,Bmw X5 Xdrive30D Sport,"Rs. 73,30,000",2993 cc,,Diesel,,Automatic
+296,Bmw X5 Xdrive30D Xline,"Rs. 82,90,000",2993 cc,,Diesel,,Automatic
+297,Bmw X5 Xdrive40I M Sport,"Rs. 82,90,000",2998 cc,,Petrol,,Automatic
+298,Ford Mustang Fastback V8,"Rs. 74,62,000",4951 cc,60.9 litres,Petrol,10 km/litre,Automatic
+299,Jeep Grand Cherokee Limited,"Rs. 78,82,867",2987 cc,93.5 litres,Diesel,12.8 km/litre,Automatic
+300,Jeep Grand Cherokee Summit,"Rs. 89,31,819",2987 cc,93.5 litres,Diesel,12.8 km/litre,Automatic
+301,Jeep Grand Cherokee Srt,"Rs. 1,14,00,000",6417 cc,93.5 litres,Petrol,12.8 km/litre,Automatic
+302,Jeep Grand Cherokee Summit Petrol,"Rs. 75,15,000",3604 cc,93.5 litres,Petrol,,Automatic
+303, Mercedes-Benz E-Class Cabriolet E400,"Rs. 77,11,338",2996 cc,80 litres,Petrol,4.5 km/litre,
+304,Bmw M2 Competition Coupe,"Rs. 81,80,000",2979 cc,52 litres,Petrol,12.5-12.7 km/litre,Automatic
+305,Porsche 718 Boxster,"Rs. 89,95,000",1988 cc,54 litres,Petrol,9 km/litre,Automatic
+306,Porsche 718 Cayman,"Rs. 85,95,000",1988 cc,54 litres,Petrol,9 km/litre,Automatic
+307, Mercedes-Benz Gls 350 Cdi,"Rs. 88,20,000",2987 cc,100 litres,Diesel,6.5 km/litre,Automatic
+308, Mercedes-Benz Gls 63 Amg,"Rs. 1,91,99,181",5461 cc,80 litres,Petrol,9 km/litre,Automatic
+309, Mercedes-Benz Gls 400 4Matic,"Rs. 87,76,900",2996 cc,80 litres,Petrol,9 km/litre,Automatic
+310, Mercedes-Benz Gls Grand Edition Petrol,"Rs. 86,90,000",2996 cc,80 litres,Petrol,9 km/litre,Automatic
+311, Mercedes-Benz Gls Grand Edition Diesel,"Rs. 86,90,000",2987 cc,100 litres,Diesel,6.5 km/litre,Automatic
+312,Toyota Land Cruiser Prado Vx L,"Rs. 96,30,000",2982 cc,87 litres,Diesel,7 km/litre,Automatic
+313,Lexus Rx 450H 450Hl Luxury,"Rs. 99,00,000",3456 cc,65 litres,Petrol,18.8 km/litre,Automatic
+314,Audi Rs5 Coupe,"Rs. 1,11,41,200",2894 cc,58 litres,Petrol,,Automatic
+315,Bmw 7-Series 730Ld Design Pure Excellence,"Rs. 1,22,90,000",2993 cc,78 litres,Diesel,13.5 km/litre,Automatic
+316,Bmw 7-Series 730Ld Design Pure Excellence Signature,"Rs. 1,32,00,000",2993 cc,78 litres,Diesel,13.5 km/litre,Automatic
+317,Bmw 7-Series 730Ld M Sport,"Rs. 1,35,10,000",2993 cc,78 litres,Diesel,13.5 km/litre,Automatic
+318,Bmw 7-Series 740Li Design Pure Excellence Signature,"Rs. 1,35,10,000",2998 cc,78 litres,Petrol,,Automatic
+319,Bmw 7-Series 745Le Xdrive,"Rs. 1,65,00,000",2998 cc,46 litres,Hybrid,,Automatic
+320,Bmw 7-Series M760Li Xdrive,"Rs. 2,42,50,000",6592 cc,78 litres,Petrol,,Automatic
+321,Audi Q8 55 Tfsi Quattro Tiptronic,"Rs. 1,33,59,500",2995 cc,85 litres,Petrol,,Automatic
+322, Mercedes-Benz S-Class S 350 D,"Rs. 1,35,58,438",2987 cc,90 litres,Diesel,9 km/litre,Automatic
+323, Mercedes-Benz S-Class S 450,"Rs. 1,39,76,653",2996 cc,70 litres,Petrol,5.4 km/litre,Automatic
+324, Mercedes-Benz S-Class Amg S 63 Coupe,"Rs. 2,55,00,000",3982 cc,80 litres,Petrol,5.4 km/litre,Automatic
+325,Maserati Levante Diesel,"Rs. 1,45,12,054",2987 cc,80 litres,Diesel,5.2 km/litre,Automatic
+326,Maserati Levante Gransport,"Rs. 1,48,63,774",2979 cc,80 litres,Diesel,5.2 km/litre,Automatic
+327,Maserati Levante Granlusson,"Rs. 1,53,83,399",2979 cc,80 litres,Diesel,5.2 km/litre,Automatic
+328, Mercedes-Benz G-Class Amg G 63,"Rs. 2,18,75,136",3982 cc,96 litres,Petrol,,Automatic
+329, Mercedes-Benz G-Class G 350D,"Rs. 1,50,00,000",2925 cc,100 litres,Diesel,,Automatic
+330,Audi A8 L 55 Tfsi Quattro,"Rs. 1,56,00,000",2995 cc,82 litres,Petrol,,Automatic
+331,Maserati Granturismo Sport,"Rs. 1,72,29,579",4691 cc,86 litres,Petrol,4.6 km/litre,Automatic
+332,Maserati Quattroporte Granlusso,"Rs. 1,79,00,000",2987 cc,70 litres,Diesel,5.2 km/litre,Automatic
+333,Lexus Lc 500H Coupe,"Rs. 1,96,00,000",3456 cc,82 litres,Hybrid,,Automatic
+334, Mercedes-Benz Maybach S650,"Rs. 2,73,08,312",5980 cc,80 litres,Petrol,,Automatic
+335, Mercedes-Benz Maybach S560,"Rs. 1,98,90,000",4663 cc,80 litres,Petrol,7.81 km/litre,Automatic
+336,Porsche Panamera Turbo,"Rs. 2,12,63,000",3996 cc,90 litres,Petrol,7.1 km/litre,Automatic
+337,Porsche Panamera Turbo Executive,"Rs. 2,26,13,000",3996 cc,90 litres,Petrol,7.1 km/litre,Automatic
+338,Porsche Panamera Turbo Sport Turismo,"Rs. 2,17,47,000",3996 cc,90 litres,Petrol,7.1 km/litre,Automatic
+339,Lexus Lx 450D V8,"Rs. 2,32,90,000",4461 cc,93 litres,Diesel,18 km/litre,Automatic
+340, Mercedes-Benz S-Class Cabriolet S500,"Rs. 2,34,91,293",4663 cc,80 litres,Petrol,5.4 km/litre,Automatic
+341,Audi R8 V10 Plus,"Rs. 2,72,45,000",5204 cc,75 litres,Petrol,7.8 km/litre,Automatic
+342,Lamborghini Urus V8,"Rs. 3,00,00,000",3996 cc,75 litres,Petrol,,Automatic
+343,Bentley Continental Gt Coupe,"Rs. 3,37,91,059",5998 cc,90 litres,Petrol,5.3 km/litre,Automatic
+344,Ferrari Portofino V8 Convertible,"Rs. 3,50,00,000",3855 cc,92 litres,Petrol,6 km/litre,Automatic
+345,Bentley Bentayga W12,"Rs. 4,59,41,557",5950 cc,85 litres,Petrol,"9,6 km/litre",Automatic
+346,Bentley Bentayga V8,"Rs. 3,75,42,069",3996 cc,85 litres,Petrol,,Automatic
+347,Aston Martin Db 11 V12,"Rs. 4,04,56,503",5198 cc,80 litres,Petrol,6 km/litre,Automatic
+348,Ferrari 458 Speciale Coupe,"Rs. 4,25,31,500",4497 cc,86 litres,Petrol,6 km/litre,Automatic
+349, Rolls-Royce Ghost Series Ii 6.6,"Rs. 4,67,09,733",6593 cc,82.5 litres,Petrol,10.5 km/litre,Automatic
+350, Rolls-Royce Ghost Series Ii Ewb,"Rs. 5,32,47,201",6592 cc,82.5 litres,Petrol,,Automatic
+351, Rolls-Royce Wraith Coupe,"Rs. 5,00,25,840",6592 cc,83 litres,Petrol,4.7 km/litre,Automatic
+352,Bentley Mulsanne Sedan,"Rs. 5,25,71,294",6752 cc,90 litres,Petrol,6.2 km/litre,Automatic
+353, Rolls-Royce Cullinan Suv,"Rs. 6,95,00,000",6750 cc,,Petrol,,Automatic
+354, Rolls-Royce Phantom Coupe 6.8 L,"Rs. 7,73,12,661",6749 cc,100 litres,Petrol,10.2 km/litre,Automatic
+355,Bugatti Chiron W16,"Rs. 19,21,42,937",7993 cc,,Petrol,,Automatic
+356,Bugatti Chiron Sport,"Rs. 21,21,55,397",7993 cc,,Petrol,,Automatic
+357,Bajaj Qute (Re60) Qcar,"Rs. 2,63,000",216 cc,,Petrol,,Manual
+358,Bajaj Qute (Re60) Qcar Cng,"Rs. 2,83,000",216 cc,,CNG,,Manual
+359,Maruti Suzuki Alto Std,"Rs. 2,94,800",796 cc,35 litres,Petrol,,Manual
+360,Maruti Suzuki Alto Std (O),"Rs. 2,99,900",796 cc,35 litres,Petrol,,Manual
+361,Maruti Suzuki Alto Lxi,"Rs. 3,52,900",796 cc,35 litres,Petrol,,Manual
+362,Maruti Suzuki Alto Lxi (O),"Rs. 3,57,200",796 cc,35 litres,Petrol,,Manual
+363,Maruti Suzuki Alto Vxi,"Rs. 3,76,100",796 cc,35 litres,Petrol,,Manual
+364,Maruti Suzuki Alto Lxi Cng (Cng +,"Rs. 4,05,570",796 cc,35 litres,CNG + Petrol,,Manual
+365,Maruti Suzuki Alto Lxi (O) Cng (Cng +,"Rs. 4,09,190",796 cc,35 litres,CNG + Petrol,,Manual
+366,Maruti Suzuki Alto Vxi Plus,"Rs. 3,89,600",796 cc,35 litres,Petrol,,Manual
+367,Maruti Suzuki S-Presso Std,"Rs. 3,70,500",998 cc,27 litres,Petrol,,Manual
+368,Maruti Suzuki S-Presso Std (O),"Rs. 3,76,500",998 cc,27 litres,Petrol,,Manual
+369,Maruti Suzuki S-Presso Lxi,"Rs. 4,09,000",998 cc,27 litres,Petrol,,Manual
+370,Maruti Suzuki S-Presso Lxi (O),"Rs. 4,15,000",998 cc,27 litres,Petrol,,Manual
+371,Maruti Suzuki S-Presso Vxi,"Rs. 4,32,500",998 cc,27 litres,Petrol,,Manual
+372,Maruti Suzuki S-Presso Vxi (O),"Rs. 4,38,500",998 cc,27 litres,Petrol,,Manual
+373,Maruti Suzuki S-Presso Vxi Ags,"Rs. 4,75,500",998 cc,27 litres,Petrol,,AMT
+374,Maruti Suzuki S-Presso Vxi+,"Rs. 4,56,000",998 cc,27 litres,Petrol,,Manual
+375,Maruti Suzuki S-Presso Vxi (O) Ags,"Rs. 4,81,500",998 cc,27 litres,Petrol,,AMT
+376,Maruti Suzuki S-Presso Vxi+ Ags,"Rs. 4,99,000",998 cc,27 litres,Petrol,,AMT
+377,Maruti Suzuki Celerio Lxi,"Rs. 4,26,289",998 cc,35 litres,Petrol,23 km/litre,Manual
+378,Maruti Suzuki Celerio Vxi,"Rs. 4,65,138",998 cc,35 litres,Petrol,23 km/litre,Manual
+379,Maruti Suzuki Celerio Vxi At,"Rs. 5,08,138",998 cc,35 litres,Petrol,23 km/litre,Automatic
+380,Maruti Suzuki Celerio Zxi,"Rs. 4,90,924",998 cc,35 litres,Petrol,23 km/litre,Manual
+381,Maruti Suzuki Celerio Zxi (Opt),"Rs. 5,31,279",998 cc,35 litres,Petrol,23 km/litre,Manual
+382,Maruti Suzuki Celerio Vxi Cng Mt,"Rs. 5,30,000",998 cc,35 litres,CNG,,Manual
+383,Maruti Suzuki Celerio Zxi Ags,"Rs. 5,33,924",998 cc,35 litres,Petrol,23 km/litre,Automatic
+384,Maruti Suzuki Celerio Lxi Mt (O),"Rs. 4,34,659",998 cc,35 litres,Petrol,23 km/litre,Manual
+385,Maruti Suzuki Celerio Vxi (O) Mt,"Rs. 4,72,257",998 cc,35 litres,Petrol,23 km/litre,Manual
+386,Maruti Suzuki Celerio Vxi (O) Ags,"Rs. 5,15,257",998 cc,35 litres,Petrol,23 km/litre,Automatic
+387,Maruti Suzuki Celerio Zxi (O) Ags,"Rs. 5,43,279",998 cc,35 litres,Petrol,23 km/litre,Automatic
+388,Hyundai Grand I10 Prime Era T Crdi,"Rs. 5,51,530",1120 cc,43 litres,Diesel,24 km/litre,Manual
+389,Hyundai Grand I10 Prime Era T+ Crdi,"Rs. 5,68,930",1120 cc,43 litres,Diesel,24 km/litre,Manual
+390,Hyundai Grand I10 Prime Era T Vtvt,"Rs. 4,60,369",1197 cc,43 litres,Petrol,18.9 km/litre,Manual
+391,Hyundai Grand I10 Prime Era T+ Vtvt,"Rs. 4,77,511",1197 cc,43 litres,Petrol,18.9 km/litre,Manual
+392,Hyundai Grand I10 Prime Era T+ Cng Vtvt,"Rs. 5,45,946",1197 cc,43 litres,CNG,,Manual
+393,Hyundai Grand I10 Prime Era T Cng Vtvt,"Rs. 5,28,804",1197 cc,43 litres,CNG,,Manual
+394,Mahindra Kuv100 Nxt K2 6Str,"Rs. 4,88,194",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+395,Mahindra Kuv100 Nxt K2+ 6Str,"Rs. 5,32,184",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+396,Mahindra Kuv100 Nxt K2 D 6Str,"Rs. 5,90,798",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+397,Mahindra Kuv100 Nxt K2+ D 6Str,"Rs. 6,19,243",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+398,Mahindra Kuv100 Nxt K4+ D 6Str,"Rs. 6,67,273",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+399,Mahindra Kuv100 Nxt K4+ 6Str,"Rs. 5,79,645",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+400,Mahindra Kuv100 Nxt K6+ 6Str,"Rs. 6,31,144",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+401,Mahindra Kuv100 Nxt K6+ D 6Str,"Rs. 7,54,548",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+402,Mahindra Kuv100 Nxt K8 6Str,"Rs. 6,93,550",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+403,Mahindra Kuv100 Nxt K8 D 6Str,"Rs. 7,87,304",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+404,Mahindra Kuv100 Nxt K8 6 Str Dual Tone,"Rs. 7,01,045",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+405,Mahindra Kuv100 Nxt K8 D 6 Str Dual Tone,"Rs. 7,94,800",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+406,Mahindra Kuv100 Nxt K4+ 5Str,"Rs. 5,73,250",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+407,Mahindra Kuv100 Nxt K6+ 5Str,"Rs. 6,31,146",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+408,Mahindra Kuv100 Nxt K8 5Str,"Rs. 6,87,175",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+409,Mahindra Kuv100 Nxt K4+ D 5Str,"Rs. 6,60,832",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+410,Mahindra Kuv100 Nxt K6+ D 5Str,"Rs. 7,48,128",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+411,Mahindra Kuv100 Nxt K8 D 5Str,"Rs. 7,80,884",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+412,Mahindra Kuv100 Nxt K2 D 5Str Taxi,"Rs. 5,50,155",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+413,Mahindra Kuv100 Nxt K2 D 6Str Taxi,"Rs. 5,59,741",1198 cc,35 litres,Diesel,22.25 km/litre,Manual
+414,Mahindra Kuv100 Nxt K2 5Str Cng Taxi,"Rs. 5,24,312",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+415,Mahindra Kuv100 Nxt K2 6Str Cng Taxi,"Rs. 5,42,913",1198 cc,35 litres,Petrol,15.5 km/litre,Manual
+416,Maruti Suzuki Swift Lxi,"Rs. 5,19,000",1197 cc,37 litres,Petrol,12.6 km/litre,Manual
+417,Maruti Suzuki Swift Vxi,"Rs. 6,19,000",1197 cc,37 litres,Petrol,,Manual
+418,Maruti Suzuki Swift Vxi Amt,"Rs. 6,66,000",1197 cc,37 litres,Petrol,,Automatic
+419,Maruti Suzuki Swift Zxi,"Rs. 6,78,000",1197 cc,37 litres,Petrol,,Manual
+420,Maruti Suzuki Swift Zxi Amt,"Rs. 7,25,000",1197 cc,37 litres,Petrol,,Automatic
+421,Maruti Suzuki Swift Zxi Plus,"Rs. 7,58,000",1197 cc,37 litres,Petrol,,Manual
+422,Maruti Suzuki Swift Ldi,"Rs. 5,99,000",1248 cc,37 litres,Diesel,,Manual
+423,Maruti Suzuki Swift Vdi,"Rs. 6,98,000",1248 cc,37 litres,Diesel,,Manual
+424,Maruti Suzuki Swift Vdi Amt,"Rs. 7,45,000",1248 cc,37 litres,Diesel,,Automatic
+425,Maruti Suzuki Swift Zdi,"Rs. 7,57,000",1248 cc,37 litres,Diesel,,Manual
+426,Maruti Suzuki Swift Zdi Amt,"Rs. 8,04,000",1248 cc,37 litres,Diesel,,Automatic
+427,Maruti Suzuki Swift Zdi Plus,"Rs. 8,38,000",1248 cc,37 litres,Diesel,,Manual
+428,Maruti Suzuki Swift Zxi Plus Amt,"Rs. 8,02,000",1197 cc,37 litres,Petrol,,Automatic
+429,Maruti Suzuki Swift Zdi Plus Amt,"Rs. 8,84,000",1248 cc,37 litres,Diesel,,Automatic
+430,Tata Altroz Xe Petrol,"Rs. 5,29,000",1199 cc,37 litres,Petrol,,Manual
+431,Tata Altroz Xm Petrol,"Rs. 6,15,000",1199 cc,37 litres,Petrol,,Manual
+432,Tata Altroz Xt Petrol,"Rs. 6,84,000",1199 cc,37 litres,Petrol,,Manual
+433,Tata Altroz Xz Petrol,"Rs. 7,44,000",1199 cc,37 litres,Petrol,,Manual
+434,Tata Altroz Xz (O) Petrol,"Rs. 7,69,000",1199 cc,37 litres,Petrol,,Manual
+435,Tata Altroz Xe Diesel,"Rs. 6,99,000",1497 cc,37 litres,Diesel,,Manual
+436,Tata Altroz Xm Diesel,"Rs. 7,75,000",1497 cc,37 litres,Diesel,,Manual
+437,Tata Altroz Xt Diesel,"Rs. 8,44,000",1497 cc,37 litres,Diesel,,Manual
+438,Tata Altroz Xz Diesel,"Rs. 9,04,000",1497 cc,37 litres,Diesel,,Manual
+439,Tata Altroz Xz (O) Diesel,"Rs. 9,29,000",1497 cc,37 litres,Diesel,,Manual
+440,Icml Extreme Ld Di Non Ac 9 Seater Bsiii,"Rs. 6,42,478",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+441,Icml Extreme Ld Crdfi Non Ac 9 Seater Bsiv,"Rs. 5,89,678",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+442,Icml Extreme Ld Di Ps Ac 9 Seater Bsiii,"Rs. 6,89,761",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+443,Icml Extreme Ld Crdfi Ps Ac 9 Seater Bsiii,"Rs. 7,88,177",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+444,Icml Extreme Sd Di 9 Seater Bsiii,"Rs. 26,50,777",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+445,Icml Extreme Ld Crdfi Ps Ac 9 Seater Bsiv,"Rs. 6,28,072",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+446,Icml Extreme Vd Crdfi 7 Seater Bsiii,"Rs. 9,00,967",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+447,Icml Extreme Vd Di 7 Seater Bsiii,"Rs. 14,65,148",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+448,Icml Extreme Sd Crdfi 9 Seater Bsiv,"Rs. 5,52,890",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+449,Icml Extreme Vd Crdfi 7 Seater Bsiv,"Rs. 9,27,689",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+450,Icml Extreme Sd Crdfi 9 Seater Bsiii,"Rs. 8,35,275",1994 cc,50 litres,Diesel,8.6 km/litre,Manual
+451,Tata Tigor Revotron Xe,"Rs. 5,75,000",1199 cc,35 litres,Petrol,24.12 km/litre,Manual
+452,Tata Tigor Revotron Xm,"Rs. 6,10,000",1199 cc,35 litres,Petrol,24.12 km/litre,Manual
+453,Tata Tigor Revotron Xz,"Rs. 6,50,000",1199 cc,35 litres,Petrol,24.12 km/litre,Manual
+454,Tata Tigor Revotron Xz Plus,"Rs. 6,99,000",1199 cc,35 litres,Petrol,24.12 km/litre,Manual
+455,Tata Tigor Revotron Xma,"Rs. 6,60,000",1199 cc,35 litres,Petrol,24.12 km/litre,AMT
+456,Tata Tigor Revotron Xza Plus,"Rs. 7,49,000",1199 cc,35 litres,Petrol,24.12 km/litre,AMT
+457,Tata Zest Xe Petrol,"Rs. 5,82,287",1193 cc,44 litres,Petrol,13.2 km/litre,Manual
+458,Tata Zest Xe Diesel,"Rs. 7,02,946",1248 cc,44 litres,Diesel,19.2 km/litre,Manual
+459,Tata Zest Xm Petrol,"Rs. 6,53,926",1193 cc,44 litres,Petrol,13.2 km/litre,Manual
+460,Tata Zest Xms Petrol,"Rs. 6,72,641",1193 cc,44 litres,Petrol,13.2 km/litre,Manual
+461,Tata Zest Xt Petrol,"Rs. 7,32,475",1193 cc,44 litres,Petrol,13.2 km/litre,Manual
+462,Tata Zest Xm Diesel,"Rs. 7,67,317",1248 cc,44 litres,Diesel,19.2 km/litre,Manual
+463,Tata Zest Xms Diesel,"Rs. 7,93,898",1248 cc,44 litres,Diesel,19.2 km/litre,Manual
+464,Tata Zest Xt Diesel,"Rs. 8,55,362",1248 cc,44 litres,Diesel,19.2 km/litre,Manual
+465,Tata Zest Xma Diesel,"Rs. 8,36,320",1248 cc,44 litres,Diesel,19.2 km/litre,AMT
+466,Tata Zest Xta Diesel,"Rs. 9,89,000",1248 cc,44 litres,Diesel,19.2 km/litre,Automatic
+467,Tata Zest Zest Premio Edition,"Rs. 7,88,797",1248 cc,44 litres,Diesel,19.2 km/litre,Manual
+468,Honda Amaze S Cvt Petrol,"Rs. 7,63,000",1199 cc,35 litres,Petrol,,Automatic
+469,Honda Amaze E Mt Diesel,"Rs. 7,05,000",1498 cc,35 litres,Diesel,,Manual
+470,Honda Amaze E Mt Petrol,"Rs. 5,93,000",1199 cc,35 litres,Petrol,,Manual
+471,Honda Amaze S Cvt Diesel,"Rs. 8,65,000",1498 cc,35 litres,Diesel,,Automatic
+472,Honda Amaze V Cvt Petrol,"Rs. 8,23,000",1199 cc,35 litres,Petrol,,Automatic
+473,Honda Amaze V Cvt Diesel,"Rs. 9,25,000",1498 cc,35 litres,Diesel,,Automatic
+474,Honda Amaze S Mt Diesel,"Rs. 7,85,000",1498 cc,35 litres,Diesel,,Manual
+475,Honda Amaze Vx Mt Diesel,"Rs. 8,93,000",1498 cc,35 litres,Diesel,,Manual
+476,Honda Amaze V Mt Diesel,"Rs. 8,45,000",1498 cc,35 litres,Diesel,,Manual
+477,Honda Amaze Vx Mt Petrol,"Rs. 7,81,000",1199 cc,35 litres,Petrol,,Manual
+478,Honda Amaze V Mt Petrol,"Rs. 7,33,000",1199 cc,35 litres,Petrol,,Manual
+479,Honda Amaze S Mt Petrol,"Rs. 6,73,000",1198 cc,35 litres,Petrol,,Manual
+480,Honda Amaze Exclusive Edition Diesel,"Rs. 9,06,000",1498 cc,35 litres,Diesel,,Manual
+481,Honda Amaze Exclusive Edition Petrol,"Rs. 7,94,000",1199 cc,35 litres,Petrol,,Manual
+482,Honda Amaze Vx Cvt Diesel,"Rs. 9,66,000",1498 cc,35 litres,Diesel,,Automatic
+483,Honda Amaze Vx Cvt Petrol,"Rs. 8,64,000",1199 cc,35 litres,Petrol,,Automatic
+484,Honda Amaze Ace Edition Cvt Diesel,"Rs. 9,79,300",1498 cc,35 litres,Diesel,,Automatic
+485,Honda Amaze Ace Edition Cvt Petrol,"Rs. 8,77,300",1199 cc,35 litres,Petrol,,Automatic
+486,Honda Amaze Ace Edition Mt Diesel,"Rs. 9,06,300",1498 cc,35 litres,Diesel,,Manual
+487,Honda Amaze Ace Edition Mt Petrol,"Rs. 7,94,300",1199 cc,35 litres,Petrol,,Manual
+488,Maruti Suzuki Gypsy Hard Top,"Rs. 6,37,343",1298 cc,40 litres,Petrol,10.2 km/litre,Manual
+489,Maruti Suzuki Gypsy Soft Top,"Rs. 6,22,730",1298 cc,40 litres,Petrol,10.2 km/litre,Manual
+490,Hyundai Venue 1.2 Kappa Mt E,"Rs. 6,55,000",1197 cc,45 litres,Petrol,,Manual
+491,Hyundai Venue 1.0 Turbo Gdi Mt S,"Rs. 8,26,000",998 cc,45 litres,Petrol,,Manual
+492,Hyundai Venue 1.4 Crdi Mt E,"Rs. 7,80,000",1397 cc,,Diesel,,Manual
+493,Hyundai Venue 1.0 Turbo Gdi Mt Sx,"Rs. 9,59,000",998 cc,45 litres,Petrol,,Manual
+494,Hyundai Venue 1.0 Turbo Gdi Mt Sx Dual Tone,"Rs. 9,74,000",998 cc,45 litres,Petrol,,Manual
+495,Hyundai Venue 1.0 Turbo Gdi Mt Sx(O),"Rs. 10,65,000",998 cc,45 litres,Petrol,,Manual
+496,Hyundai Venue 1.0 Turbo Gdi Dct S,"Rs. 9,40,000",998 cc,45 litres,Petrol,,DCT
+497,Hyundai Venue 1.0 Turbo Gdi Dct Sx Plus,"Rs. 11,15,500",998 cc,45 litres,Petrol,,DCT
+498,Hyundai Venue 1.2 Kappa Mt S,"Rs. 7,25,000",1197 cc,45 litres,Petrol,,Manual
+499,Hyundai Venue 1.4 Crdi Mt S,"Rs. 8,50,000",1397 cc,,Diesel,,Manual
+500,Hyundai Venue 1.4 Crdi Mt Sx,"Rs. 9,83,000",1397 cc,,Diesel,,Manual
+501,Hyundai Venue 1.4 Crdi Mt Sx Dual Tone,"Rs. 9,98,000",1397 cc,,Diesel,,Manual
+502,Hyundai Venue 1.4 Crdi Mt Sx(O),"Rs. 10,89,000",1397 cc,45 litres,Diesel,,Manual
+503,Tata Nexon Xe,"Rs. 6,95,000",1198 cc,44 litres,Petrol,,Manual
+504,Tata Nexon Xm,"Rs. 7,70,000",1198 cc,44 litres,Petrol,,Manual
+505,Tata Nexon Xz,"Rs. 8,70,000",1198 cc,44 litres,Petrol,,Manual
+506,Tata Nexon Xz Plus,"Rs. 9,50,000",1198 cc,44 litres,Petrol,,Manual
+507,Tata Nexon Xz Plus Dual Tone,"Rs. 9,70,000",1198 cc,44 litres,Petrol,,Manual
+508,Tata Nexon Xz Plus (O),"Rs. 10,40,000",1198 cc,44 litres,Petrol,,Manual
+509,Tata Nexon Xz Plus (O) Dual Tone,"Rs. 10,60,000",1198 cc,44 litres,Petrol,,Automatic
+510,Tata Nexon Xma,"Rs. 8,30,000",1198 cc,44 litres,Petrol,,Automatic
+511,Tata Nexon Xza Plus,"Rs. 10,10,000",1198 cc,44 litres,Petrol,,Automatic
+512,Tata Nexon Xza Plus Dual Tone,"Rs. 10,30,000",1198 cc,44 litres,Petrol,,Automatic
+513,Tata Nexon Xza Plus (O),"Rs. 11,00,000",1198 cc,44 litres,Petrol,,Automatic
+514,Tata Nexon Xza Plus (O) Dual Tone,"Rs. 11,20,000",1198 cc,44 litres,Petrol,,Automatic
+515,Tata Nexon Xe Diesel,"Rs. 8,45,000",1497 cc,44 litres,Diesel,,Manual
+516,Tata Nexon Xm Diesel,"Rs. 9,20,000",1497 cc,44 litres,Diesel,,Manual
+517,Tata Nexon Xz Diesel,"Rs. 10,20,000",1497 cc,44 litres,Diesel,,Manual
+518,Tata Nexon Xz Plus Diesel,"Rs. 11,00,000",1497 cc,44 litres,Diesel,,Manual
+519,Tata Nexon Xz Plus Diesel Dual Tone,"Rs. 11,20,000",1497 cc,44 litres,Diesel,,Manual
+520,Tata Nexon Xz Plus (O) Diesel,"Rs. 11,90,000",1497 cc,44 litres,Diesel,,Manual
+521,Tata Nexon Xz Plus (O) Diesel Dual Tone,"Rs. 12,10,000",1497 cc,44 litres,Diesel,,Manual
+522,Tata Nexon Xma Diesel,"Rs. 9,80,000",1497 cc,44 litres,Diesel,,Automatic
+523,Tata Nexon Xza Plus Diesel,"Rs. 11,60,000",1497 cc,44 litres,Diesel,,Automatic
+524,Tata Nexon Xza Plus Diesel Dual Tone,"Rs. 11,80,000",1497 cc,44 litres,Diesel,,Automatic
+525,Tata Nexon Xza Plus (O) Diesel,"Rs. 12,50,000",1497 cc,44 litres,Diesel,,Automatic
+526,Tata Nexon Xza Plus (O) Diesel Dual Tone,"Rs. 12,70,000",1497 cc,44 litres,Diesel,,Automatic
+527,Fiat Linea Active Fire,"Rs. 7,15,860",1368 cc,45 litres,Petrol,"11,3 km/litre",Manual
+528,Fiat Linea Active Multijet,"Rs. 8,62,175",1248 cc,45 litres,Diesel,17.2 km/litre,Manual
+529,Fiat Linea Dynamic Multijet,"Rs. 9,32,025",1248 cc,45 litres,Diesel,17.2 km/litre,Manual
+530,Fiat Linea Emotion Multijet,"Rs. 9,91,434",1248 cc,45 litres,Diesel,17.2 km/litre,Manual
+531,Fiat Linea T-Jet Emotion,"Rs. 9,97,763",1368 cc,45 litres,Petrol,"11,3 km/litre",Manual
+532,Mahindra Bolero Power Plus Zlx,"Rs. 8,86,398",1493 cc,60 litres,Diesel,12.4 km/litre,Manual
+533,Mahindra Bolero Power Plus Slx,"Rs. 8,51,302",1493 cc,60 litres,Diesel,12.4 km/litre,Manual
+534,Mahindra Bolero Power Plus Sle,"Rs. 7,85,656",1493 cc,60 litres,Diesel,12.4 km/litre,Manual
+535,Mahindra Bolero Power Plus Lx,"Rs. 7,49,192",1493 cc,60 litres,Diesel,12.4 km/litre,Manual
+536,Mahindra Bolero Power Plus Plus Ac Bs4 Ps,"Rs. 8,59,497",2523 cc,60 litres,Diesel,9.4 km/litre,Manual
+537,Mahindra Bolero Power Plus Plus Non Ac Bs4 Ps,"Rs. 8,19,117",2523 cc,60 litres,Diesel,12.4 km/litre,Manual
+538,Maruti Suzuki Vitara Brezza Ldi,"Rs. 7,62,742",1248 cc,48 litres,Diesel,20 km/litre,Manual
+539,Maruti Suzuki Vitara Brezza Vdi,"Rs. 8,14,742",1248 cc,48 litres,Diesel,20 km/litre,Manual
+540,Maruti Suzuki Vitara Brezza Zdi,"Rs. 8,92,243",1248 cc,48 litres,Diesel,20 km/litre,Manual
+541,Maruti Suzuki Vitara Brezza Zdi+,"Rs. 9,87,743",1248 cc,48 litres,Diesel,20 km/litre,Manual
+542,Maruti Suzuki Vitara Brezza Zdi+ Dual Tone,"Rs. 10,03,552",1248 cc,48 litres,Diesel,20 km/litre,Manual
+543,Maruti Suzuki Vitara Brezza Zdi+ Ags,"Rs. 10,37,742",1248 cc,48 litres,Diesel,20 km/litre,Manual
+544,Maruti Suzuki Vitara Brezza Vdi Ags,"Rs. 8,64,742",1248 cc,48 litres,Diesel,20 km/litre,Automatic
+545,Maruti Suzuki Vitara Brezza Zdi Ags,"Rs. 9,42,243",1248 cc,48 litres,Diesel,20 km/litre,Automatic
+546,Maruti Suzuki Vitara Brezza Zdi+ Dual Tone Ags,"Rs. 10,59,742",1248 cc,48 litres,Diesel,20 km/litre,Automatic
+547,Hyundai I20 Active 1.2 S,"Rs. 7,74,035",1197 cc,40 litres,Petrol,15 km/litre,Manual
+548,Hyundai I20 Active 1.2 Sx,"Rs. 8,58,536",1197 cc,40 litres,Petrol,15 km/litre,Manual
+549,Hyundai I20 Active 1.2 Sx Dual Tone,"Rs. 8,82,298",1197 cc,40 litres,Petrol,15 km/litre,Manual
+550,Hyundai I20 Active 1.4 Sx,"Rs. 9,93,393",1396 cc,40 litres,Diesel,21.19 km/litre,Manual
+551,Ford Ecosport 1.5L Ti-Vct Ambiente,"Rs. 7,91,000",1497 cc,52 litres,Petrol,,Manual
+552,Ford Ecosport 1.5L Ti-Vct Trend,"Rs. 8,71,000",1497 cc,52 litres,Petrol,,Manual
+553,Ford Ecosport 1.5L Ti-Vct Titanium,"Rs. 9,50,000",1497 cc,52 litres,Petrol,,Manual
+554,Ford Ecosport 1.5L Ti-Vct Titanium Plus At,"Rs. 11,30,000",1497 cc,52 litres,Petrol,,Automatic
+555,Ford Ecosport 1.5L Tdci Ambiente,"Rs. 8,41,000",1498 cc,52 litres,Diesel,,Manual
+556,Ford Ecosport 1.5L Tdci Trend,"Rs. 9,21,000",1498 cc,52 litres,Diesel,,Manual
+557,Ford Ecosport 1.5L Tdci Titanium,"Rs. 9,99,900",1498 cc,52 litres,Diesel,,Manual
+558,Ford Ecosport 1.5L Tdci Titanium Plus,"Rs. 10,90,000",1498 cc,52 litres,Diesel,,Manual
+559,Ford Ecosport 1.5L Ti-Vct Titanium Plus,"Rs. 9,99,900",1497 cc,52 litres,Petrol,,Manual
+560,Ford Ecosport 1.5L Tdci Titanium S,"Rs. 11,45,000",1498 cc,52 litres,Diesel,,Manual
+561,Ford Ecosport 1.5L Ti-Vct Thunder Edition,"Rs. 9,99,900",1497 cc,52 litres,Petrol,,Manual
+562,Ford Ecosport 1.5L Tdci Thunder Edition,"Rs. 10,90,000",1498 cc,52 litres,Diesel,,Manual
+563,Renault Duster Rxe Petrol,"Rs. 7,99,990",1498 cc,50 litres,Petrol,10.2 km/litre,Manual
+564,Renault Duster Rxs Petrol,"Rs. 9,19,990",1498 cc,50 litres,Petrol,10 km/litre,Manual
+565,Renault Duster Rxs (Opt) Cvt,"Rs. 9,99,990",1498 cc,50 litres,Petrol,10 km/litre,CVT
+566,Renault Duster 85 Ps Rxe Mt Diesel,"Rs. 9,29,990",1461 cc,50 litres,Diesel,16 km/litre,Manual
+567,Renault Duster 85 Ps Rxs Mt Diesel,"Rs. 9,99,990",1461 cc,50 litres,Diesel,16 km/litre,Manual
+568,Renault Duster 110 Ps Rxs Mt Diesel,"Rs. 11,19,990",1461 cc,50 litres,Diesel,16 km/litre,Automatic
+569,Renault Duster 110 Ps Rxz Mt Diesel,"Rs. 12,09,990",1461 cc,50 litres,Diesel,16 km/litre,Automatic
+570,Renault Duster 110 Ps Rxz Amt Diesel,"Rs. 12,49,990",1461 cc,50 litres,Diesel,16 km/litre,Automatic
+571,Renault Duster 110 Ps Rxs Awd (Opt) Diesel,"Rs. 12,49,990",1461 cc,50 litres,Diesel,16 km/litre,Automatic
+572,Hyundai Verna 1.6 Vtvt Sx,"Rs. 9,99,900",1591 cc,45 litres,Petrol,,Manual
+573,Hyundai Verna 1.6 Crdi Sx,"Rs. 11,72,544",1582 cc,45 litres,Diesel,19.9 km/litre,Manual
+574,Hyundai Verna 1.6 Crdi Sx (O),"Rs. 13,01,881",1582 cc,45 litres,Diesel,19.9 km/litre,Manual
+575,Hyundai Verna 1.6 Vtvt Sx (O),"Rs. 11,72,999",1591 cc,45 litres,Petrol,,Manual
+576,Hyundai Verna 1.6 Crdi Sx Plus At,"Rs. 13,28,545",1582 cc,45 litres,Diesel,14 km/litre,Automatic
+577,Hyundai Verna 1.6 Vtvt Sx(O) At,"Rs. 12,87,999",1591 cc,45 litres,Petrol,,Automatic
+578,Hyundai Verna 1.4 Vtvt Ex,"Rs. 9,33,182",1396 cc,45 litres,Petrol,,Manual
+579,Hyundai Verna 1.4 Vtvt E,"Rs. 8,17,867",1396 cc,45 litres,Petrol,,Manual
+580,Hyundai Verna 1.6 Vtvt Sx (O) Anniversary Edition,"Rs. 11,78,894",1591 cc,45 litres,Petrol,,Manual
+581,Hyundai Verna 1.6 Vtvt Sx Plus At,"Rs. 11,62,875",1591 cc,45 litres,Petrol,,Automatic
+582,Hyundai Verna 1.6 Crdi Sx(O) At,"Rs. 14,07,871",1582 cc,45 litres,Diesel,14 km/litre,Automatic
+583,Hyundai Verna 1.4 Crdi E,"Rs. 9,42,867",1396 cc,45 litres,Diesel,,Manual
+584,Hyundai Verna 1.4 Crdi Ex,"Rs. 9,99,900",1396 cc,45 litres,Diesel,,Manual
+585,Mahindra Xuv300 1.2 W4,"Rs. 8,30,127",1197 cc,42 litres,Petrol,,Manual
+586,Mahindra Xuv300 1.2 W6,"Rs. 9,15,128",1197 cc,42 litres,Petrol,,Manual
+587,Mahindra Xuv300 1.2 W8,"Rs. 10,60,129",1197 cc,42 litres,Petrol,,Manual
+588,Mahindra Xuv300 1.2 W8(O),"Rs. 11,84,129",1197 cc,42 litres,Petrol,,Manual
+589,Mahindra Xuv300 1.5 W4,"Rs. 8,69,131",1497 cc,42 litres,Diesel,,Manual
+590,Mahindra Xuv300 1.5 W6,"Rs. 9,50,131",1497 cc,42 litres,Diesel,,Manual
+591,Mahindra Xuv300 1.5 W8,"Rs. 10,95,129",1497 cc,42 litres,Diesel,,Manual
+592,Mahindra Xuv300 1.5 W8 (O),"Rs. 12,14,130",1497 cc,42 litres,Diesel,,Manual
+593,Mahindra Xuv300 1.5 W8 Amt,"Rs. 11,49,800",1497 cc,42 litres,Diesel,,Automatic
+594,Mahindra Xuv300 1.5 W8 (O) Amt,"Rs. 12,69,131",1497 cc,42 litres,Diesel,,Automatic
+595,Mahindra Xuv300 1.5 W6 Amt,"Rs. 9,99,000",1497 cc,42 litres,Diesel,,AMT
+596,Renault Lodgy 85 Ps Std,"Rs. 8,63,299",1461 cc,50 litres,Diesel,21.04 km/litre,Manual
+597,Renault Lodgy 85 Ps Rxe 8 Seater,"Rs. 9,64,199",1461 cc,50 litres,Diesel,21.04 km/litre,Manual
+598,Renault Lodgy Stepway Rxz 110Ps 8-Seater,"Rs. 12,11,599",1461 cc,50 litres,Diesel,21.04 km/litre,Manual
+599,Renault Lodgy Stepway Rxz 110Ps 7-Seater,"Rs. 12,11,599",1461 cc,50 litres,Diesel,21.04 km/litre,Manual
+600,Renault Lodgy Stepway Rxl 85Ps 8-Seater,"Rs. 10,53,899",1461 cc,50 litres,Diesel,21.04 km/litre,Manual
+601,Renault Lodgy Stepway Rxz 85Ps 8-Seater,"Rs. 11,30,099",1461 cc,50 litres,Diesel,21.04 km/litre,Manual
+602,Renault Lodgy 85 Ps Rxe 7 Seater,"Rs. 9,64,199",1461 cc,50 litres,Diesel,21.04 km/litre,Manual
+603,Volkswagen Vento Trendline 1.6 (P),"Rs. 8,76,500",1598 cc,55 litres,Petrol,12.1 km/litre,Manual
+604,Volkswagen Vento Highline 1.6 (P),"Rs. 9,99,900",1598 cc,55 litres,Petrol,,Manual
+605,Volkswagen Vento Comfortline 1.6 (P),"Rs. 9,99,900",1598 cc,55 litres,Petrol,,Manual
+606,Volkswagen Vento Highline 1.2 (P) Dsg,"Rs. 11,97,500",1197 cc,55 litres,Petrol,,Automatic
+607,Volkswagen Vento Highline Plus 1.2 (P) Dsg,"Rs. 14,49,500",1197 cc,55 litres,Petrol,,Automatic
+608,Volkswagen Vento Trendline 1.5 (D),"Rs. 9,58,500",1498 cc,55 litres,Diesel,,Manual
+609,Volkswagen Vento Comfortline 1.5 (D),"Rs. 9,99,900",1498 cc,55 litres,Diesel,,Manual
+610,Volkswagen Vento Highline 1.5 (D),"Rs. 12,10,500",1498 cc,55 litres,Diesel,,Manual
+611,Volkswagen Vento Highline 1.5 (D) Dsg,"Rs. 13,36,500",1498 cc,55 litres,Diesel,,Automatic
+612,Volkswagen Vento Highline Plus 1.5 (D) Dsg,"Rs. 13,17,500",1498 cc,55 litres,Diesel,,Automatic
+613,Volkswagen Vento Gt Line (D),"Rs. 14,49,500",1498 cc,45 litres,Diesel,19 km/litre,Manual
+614,Volkswagen Vento Gt Line (P) Dsg,"Rs. 13,17,500",1197 cc,45 litres,Petrol,17 km/litre,Automatic
+615,Mahindra E2O Plus P4,"Rs. 8,81,425",,,Electric,80 km/litre,Automatic
+616,Mahindra E2O Plus P6,"Rs. 9,57,177",,,Electric,80 km/litre,Automatic
+617,Tata Tigor Ev Xm+,"Rs. 9,60,868",,35 litres,Electric,,Automatic
+618,Tata Tigor Ev Xt+,"Rs. 9,75,868",,35 litres,Electric,,Automatic
+619,Tata Tigor Ev Xe+,"Rs. 9,44,175",,35 litres,Electric,,Automatic
+620,Honda Brv E Petrol,"Rs. 9,52,900",1497 cc,42 litres,Petrol,12 km/litre,Manual
+621,Honda Brv S Petrol,"Rs. 10,52,900",1497 cc,42 litres,Petrol,12 km/litre,Manual
+622,Honda Brv V Petrol,"Rs. 11,67,900",1497 cc,42 litres,Petrol,12 km/litre,Manual
+623,Honda Brv Vx Petrol,"Rs. 12,71,900",1497 cc,42 litres,Petrol,12 km/litre,Manual
+624,Honda Brv V Cvt Petrol,"Rs. 12,85,900",1497 cc,42 litres,Petrol,12 km/litre,Automatic
+625,Honda Brv S Diesel,"Rs. 11,87,900",1498 cc,42 litres,Diesel,16.2 km/litre,Manual
+626,Honda Brv V Diesel,"Rs. 12,73,900",1498 cc,42 litres,Diesel,16.2 km/litre,Manual
+627,Honda Brv Vx Diesel,"Rs. 13,82,900",1498 cc,42 litres,Diesel,16.2 km/litre,Manual
+628,Mahindra Thar Crde,"Rs. 9,59,860",2498 cc,60 litres,Diesel,,Manual
+629,Mahindra Thar 700 Special Edition,"Rs. 9,99,148",2498 cc,60 litres,Diesel,,Manual
+630,Mahindra Thar Crde Abs,"Rs. 9,74,860",2498 cc,60 litres,Diesel,,Manual
+631,Force Gurkha Xpedition 5 Door,"Rs. 9,99,000",2596 cc,63 litres,Diesel,14 km/litre,Manual
+632,Force Gurkha Xplorer 3 Door,"Rs. 10,75,000",2596 cc,63 litres,Diesel,14 km/litre,Manual
+633,Force Gurkha Xtreme,"Rs. 12,99,000",2149 cc,63 litres,Diesel,,Manual
+634,Force Gurkha Xtreme Abs,"Rs. 13,30,000",2149 cc,63 litres,Diesel,,Manual
+635,Force Gurkha Xpedition 3 Door,"Rs. 9,75,000",2596 cc,63 litres,Diesel,14 km/litre,Manual
+636,Force Gurkha Xplorer 5 Door,"Rs. 12,25,000",2596 cc,63 litres,Diesel,14 km/litre,Manual
+637,Maruti Suzuki Xl6 Zeta Mt,"Rs. 9,84,689",1462 cc,45 litres,Petrol,,Manual
+638,Maruti Suzuki Xl6 Alpha Mt,"Rs. 10,41,189",1462 cc,45 litres,Petrol,,Manual
+639,Maruti Suzuki Xl6 Zeta At,"Rs. 10,94,689",1462 cc,45 litres,Petrol,,Automatic
+640,Maruti Suzuki Xl6 Alpha At,"Rs. 11,51,189",1462 cc,45 litres,Petrol,,Automatic
+641,Fiat Abarth Avventura 1.4 T-Jet,"Rs. 9,89,219",1368 cc,,Petrol,17 km/litre,Manual
+642,Mahindra Tuv300 Plus P4,"Rs. 9,92,748",2179 cc,60 litres,Diesel,18.49 km/litre,Manual
+643,Mahindra Tuv300 Plus P6,"Rs. 10,29,650",2179 cc,60 litres,Diesel,18.49 km/litre,Manual
+644,Mahindra Tuv300 Plus P8,"Rs. 11,42,157",2179 cc,60 litres,Diesel,18.49 km/litre,Manual
+645,Mahindra Marazzo M2 7 Str,"Rs. 9,99,900",1497 cc,45 litres,Diesel,,Manual
+646,Mahindra Marazzo M4 7 Str,"Rs. 11,56,471",1497 cc,45 litres,Diesel,,Manual
+647,Mahindra Marazzo M6 7 Str,"Rs. 13,08,592",1497 cc,45 litres,Diesel,,Manual
+648,Mahindra Marazzo M8 7 Str,"Rs. 14,68,440",1497 cc,45 litres,Diesel,,Manual
+649,Mahindra Marazzo M2 8 Str,"Rs. 9,99,900",1497 cc,45 litres,Diesel,,Manual
+650,Mahindra Marazzo M4 8 Str,"Rs. 11,64,569",1497 cc,45 litres,Diesel,,Manual
+651,Mahindra Marazzo M6 8 Str,"Rs. 13,16,690",1497 cc,45 litres,Diesel,,Manual
+652,Mahindra Marazzo M8 8 Str,"Rs. 14,76,538",1497 cc,45 litres,Diesel,,Manual
+653,Mahindra Scorpio S3 2Wd,"Rs. 9,99,994",2523 cc,60 litres,Diesel,11.5 km/litre,Manual
+654,Mahindra Scorpio 4Wd Getaway,"Rs. 12,36,258",2179 cc,80 litres,Diesel,8.1 km/litre,Manual
+655,Mahindra Scorpio 2Wd Getaway,"Rs. 11,23,158",2179 cc,80 litres,Diesel,9.4 km/litre,Manual
+656,Mahindra Scorpio S5 2Wd,"Rs. 12,20,030",2179 cc,60 litres,Diesel,11.5 km/litre,Manual
+657,Mahindra Scorpio S7 120 2Wd,"Rs. 13,30,006",2179 cc,60 litres,Diesel,11.5 km/litre,Manual
+658,Mahindra Scorpio S7 140 2Wd,"Rs. 13,60,668",2179 cc,60 litres,Diesel,11.5 km/litre,Manual
+659,Mahindra Scorpio S11 2Wd,"Rs. 15,40,081",2179 cc,60 litres,Diesel,11.5 km/litre,Manual
+660,Mahindra Scorpio S11 4Wd,"Rs. 16,63,054",2179 cc,60 litres,Diesel,11.5 km/litre,Manual
+661,Mahindra Scorpio S9 2Wd,"Rs. 14,23,710",2179 cc,60 litres,Diesel,11.5 km/litre,Manual
+662,Skoda Monte Carlo Monte Carlo 1.5 Tdi At,"Rs. 14,25,599",1498 cc,55 litres,Diesel,18 km/litre,Automatic
+663,Skoda Monte Carlo Monte Carlo 1.6 Mpi At,"Rs. 12,69,599",1598 cc,55 litres,Petrol,12 km/litre,Automatic
+664,Skoda Monte Carlo Monte Carlo 1.5 Tdi Mt,"Rs. 12,99,599",1498 cc,55 litres,Diesel,18 km/litre,Manual
+665,Skoda Monte Carlo Monte Carlo 1.6 Mpi Mt,"Rs. 11,39,599",1598 cc,55 litres,Petrol,12 km/litre,Manual
+666,Mahindra Xuv500 G At,"Rs. 16,10,180",2179 cc,70 litres,Petrol,,Automatic
+667,Mahindra Xuv500 W7,"Rs. 14,18,313",2179 cc,70 litres,Diesel,16 km/litre,Manual
+668,Mahindra Xuv500 W7 At,"Rs. 15,39,488",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+669,Mahindra Xuv500 W9,"Rs. 15,88,943",2179 cc,70 litres,Diesel,16 km/litre,Manual
+670,Mahindra Xuv500 W9 At,"Rs. 17,10,118",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+671,Mahindra Xuv500 W11,"Rs. 17,16,319",2179 cc,70 litres,Diesel,16 km/litre,Manual
+672,Mahindra Xuv500 W11 At,"Rs. 18,37,586",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+673,Mahindra Xuv500 W11 (O),"Rs. 17,41,319",2179 cc,70 litres,Diesel,16 km/litre,Manual
+674,Mahindra Xuv500 W11 (O) At,"Rs. 18,62,586",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+675,Mahindra Xuv500 G At,"Rs. 16,10,180",2179 cc,70 litres,Petrol,,Automatic
+676,Mahindra Xuv500 W7,"Rs. 14,18,313",2179 cc,70 litres,Diesel,16 km/litre,Manual
+677,Mahindra Xuv500 W7 At,"Rs. 15,39,488",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+678,Mahindra Xuv500 W9,"Rs. 15,88,943",2179 cc,70 litres,Diesel,16 km/litre,Manual
+679,Mahindra Xuv500 W9 At,"Rs. 17,10,118",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+680,Mahindra Xuv500 W11,"Rs. 17,16,319",2179 cc,70 litres,Diesel,16 km/litre,Manual
+681,Mahindra Xuv500 W11 At,"Rs. 18,37,586",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+682,Mahindra Xuv500 W11 (O),"Rs. 17,41,319",2179 cc,70 litres,Diesel,16 km/litre,Manual
+683,Mahindra Xuv500 W11 (O) At,"Rs. 18,62,586",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+684,Mahindra Xuv500 W11 (O) Awd,"Rs. 18,52,488",2179 cc,70 litres,Diesel,16 km/litre,Manual
+685,Mahindra Xuv500 W11 (O) Awd At,"Rs. 19,73,664",2179 cc,70 litres,Diesel,16 km/litre,Automatic
+686,Mahindra Xuv500 W3,"Rs. 12,30,924",2179 cc,70 litres,Diesel,16 km/litre,Manual
+687,Mahindra E Verito D4,"Rs. 12,93,214",72 cc,,Electric,110 km/litre,Automatic
+688,Mahindra E Verito D2,"Rs. 12,67,208",72 cc,,Electric,110 km/litre,Automatic
+689,Mahindra E Verito D6,"Rs. 13,03,241",72 cc,,Electric,110 km/litre,Automatic
+690,Tata Hexa Xm Plus 4X2,"Rs. 16,39,374",2179 cc,60 litres,Diesel,14 km/litre,Manual
+691,Tata Hexa Xt 4X4,"Rs. 19,29,417",2179 cc,60 litres,Diesel,14 km/litre,Manual
+692,Tata Hexa Xta 4X2,"Rs. 19,12,593",2179 cc,60 litres,Diesel,14 km/litre,Automatic
+693,Tata Hexa Xt 4X2,"Rs. 17,96,458",2179 cc,,Diesel,14 km/litre,Manual
+694,Tata Hexa Xe 4X2,"Rs. 13,71,864",2179 cc,60 litres,Diesel,14 km/litre,Manual
+695,Tata Hexa Xm 4X2,"Rs. 15,31,377",2179 cc,60 litres,Diesel,14 km/litre,Manual
+696,Tata Hexa Xma 4X2,"Rs. 16,55,587",2179 cc,,Diesel,14 km/litre,Automatic
+697,Toyota Innova Crysta 2.4 Gx 7 Str,"Rs. 16,05,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+698,Toyota Innova Crysta 2.4 Vx 7 Str,"Rs. 19,27,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+699,Toyota Innova Crysta 2.4 Gx 8 Str,"Rs. 16,10,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+700,Toyota Innova Crysta 2.4 Vx 8 Str,"Rs. 19,32,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+701,Toyota Innova Crysta 2.4 Zx 7 Str,"Rs. 21,13,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+702,Toyota Innova Crysta 2.7 Gx At 8 Str,"Rs. 16,20,000",2694 cc,55 litres,Petrol,11.2 km/litre,Automatic
+703,Toyota Innova Crysta 2.7 Gx At 7 Str,"Rs. 16,15,000",2694 cc,55 litres,Petrol,11.2 km/litre,Automatic
+704,Toyota Innova Crysta 2.7 Zx At 7 Str,"Rs. 21,03,000",2393 cc,55 litres,Petrol,11.2 km/litre,Automatic
+705,Toyota Innova Crysta 2.7 Vx 7 Str,"Rs. 18,07,000",2393 cc,55 litres,Petrol,11.2 km/litre,Manual
+706,Toyota Innova Crysta 2.7 Gx Mt 7 Str,"Rs. 14,93,000",2755 cc,55 litres,Petrol,11.2 km/litre,Manual
+707,Toyota Innova Crysta 2.7 Gx Mt 8 Str,"Rs. 14,98,000",2755 cc,55 litres,Petrol,11.2 km/litre,Manual
+708,Toyota Innova Crysta Touring Sport 2.4 Vx 7 Str,"Rs. 20,97,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+709,Toyota Innova Crysta Touring Sport 2.7 Vx 7 Str,"Rs. 18,92,000",2393 cc,55 litres,Petrol,11.2 km/litre,Manual
+710,Toyota Innova Crysta Touring Sport 2.7 Zx At 7 Str,"Rs. 21,71,000",2694 cc,55 litres,Petrol,11.2 km/litre,Automatic
+711,Toyota Innova Crysta 2.4 G Plus 7 Str,"Rs. 15,92,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+712,Toyota Innova Crysta 2.4 G Plus 8 Str,"Rs. 15,87,000",2393 cc,55 litres,Diesel,12 km/litre,Manual
+713,Jeep Compass 1.4 Limited At,"Rs. 19,96,000",1368 cc,60 litres,Petrol,,Automatic
+714,Jeep Compass 1.4 Sport,"Rs. 15,60,000",1368 cc,60 litres,Petrol,,Manual
+715,Jeep Compass 1.4 Limited (O) At,"Rs. 20,55,000",1368 cc,60 litres,Petrol,,Automatic
+716,Jeep Compass 2.0 Sport,"Rs. 16,61,000",1956 cc,60 litres,Diesel,,Manual
+717,Jeep Compass 2.0 Longitude,"Rs. 18,03,000",1956 cc,60 litres,Diesel,,Manual
+718,Jeep Compass 2.0 Longitude (O),"Rs. 18,88,000",1956 cc,60 litres,Diesel,,Manual
+719,Jeep Compass 2.0 Limited,"Rs. 19,73,000",1956 cc,60 litres,Diesel,,Manual
+720,Jeep Compass 2.0 Limited (O),"Rs. 20,22,000",1956 cc,60 litres,Diesel,,Manual
+721,Jeep Compass 2.0 Limited 4X4,"Rs. 21,51,000",1956 cc,60 litres,Diesel,,Manual
+722,Jeep Compass 2.0 Limited (O) 4X4,"Rs. 21,99,000",1956 cc,60 litres,Diesel,,Manual
+723,Jeep Compass 1.4 Limited Plus At Petrol,"Rs. 21,67,000",1368 cc,60 litres,Petrol,,Automatic
+724,Jeep Compass 2.0 Limited Plus 4X2 Diesel,"Rs. 21,33,000",1956 cc,60 litres,Diesel,,Manual
+725,Jeep Compass 2.0 Limited Plus 4X4 Diesel,"Rs. 23,11,000",1956 cc,60 litres,Diesel,,Manual
+726,Jeep Compass 2.0 Sport Plus,"Rs. 16,99,000",1956 cc,60 litres,Diesel,,Manual
+727,Jeep Compass 1.4 Sport Plus,"Rs. 15,99,000",1368 cc,60 litres,Petrol,,Manual
+728,Jeep Compass 1.4 Longitude (O) At,"Rs. 19,00,000",1368 cc,60 litres,Petrol,,Automatic
+729,Jeep Compass 1.4 Limited (O) At Petrol Black Pack,"Rs. 20,70,000",1368 cc,60 litres,Petrol,,Automatic
+730,Jeep Compass 2.0 Limited (O) Black Pack,"Rs. 20,36,300",1956 cc,60 litres,Diesel,,Manual
+731,Jeep Compass 2.0 Limited (O) 4X4 Black Pack,"Rs. 22,14,000",1956 cc,60 litres,Diesel,,Manual
+732,Jeep Compass 2.0 Limited Plus 4X4 At,"Rs. 24,99,000",1956 cc,60 litres,Diesel,,Automatic
+733,Jeep Compass 2.0 Longitude 4X4 At,"Rs. 21,96,000",1956 cc,60 litres,Diesel,,Automatic
+734,Toyota Corolla Altis G Petrol,"Rs. 16,45,000",1798 cc,55 litres,Petrol,9.5 km/litre,Manual
+735,Toyota Corolla Altis G At Petrol,"Rs. 18,06,000",1798 cc,55 litres,Petrol,9.5 km/litre,Automatic
+736,Toyota Corolla Altis Gl Petrol,"Rs. 18,82,000",1798 cc,55 litres,Petrol,9.5 km/litre,Manual
+737,Toyota Corolla Altis Gl Diesel,"Rs. 19,36,000",1364 cc,43 litres,Diesel,18.2 km/litre,Manual
+738,Toyota Corolla Altis G Diesel,"Rs. 17,71,000",1364 cc,43 litres,Diesel,18.4 km/litre,Manual
+739,Toyota Corolla Altis Vl At Petrol,"Rs. 20,19,000",1798 cc,55 litres,Petrol,9.5 km/litre,Automatic
+740,Honda Civic 1.8 V Cvt,"Rs. 17,93,900",1799 cc,47 litres,Petrol,,Automatic
+741,Honda Civic 1.8 Vx Cvt,"Rs. 19,44,900",1799 cc,47 litres,Petrol,,Automatic
+742,Honda Civic 1.8 Zx Cvt,"Rs. 21,24,900",1799 cc,47 litres,Petrol,,Automatic
+743,Honda Civic 1.6 Vx Mt,"Rs. 20,54,900",1597 cc,47 litres,Diesel,,Manual
+744,Honda Civic 1.6 Zx Mt,"Rs. 22,34,900",1597 cc,47 litres,Diesel,,Manual
+745,Mg Zs Ev Excite,"Rs. 20,88,000",,,Electric,,Automatic
+746,Mg Zs Ev Exclusive,"Rs. 23,58,000",,,Electric,,Automatic
+747,Kia Carnival Premium 7 Str,"Rs. 24,95,000",2199 cc,,Diesel,,Automatic
+748,Kia Carnival Premium 8 Str,"Rs. 25,15,000",2199 cc,,Diesel,,Automatic
+749,Kia Carnival Prestige 7 Str,"Rs. 28,95,000",2199 cc,,Diesel,,Automatic
+750,Kia Carnival Prestige 9 (6+3) Str,"Rs. 29,95,000",2199 cc,,Diesel,,Automatic
+751,Kia Carnival Limousine 7 Str,"Rs. 33,95,000",2199 cc,,Diesel,,Automatic
+752,Skoda Superb Style 1.8 Tsi Mt,"Rs. 25,99,599",1798 cc,66 litres,Petrol,10.6 km/litre,Manual
+753,Skoda Superb Style 1.8 Tsi At,"Rs. 27,79,599",1798 cc,66 litres,Petrol,10.1 km/litre,Automatic
+754,Skoda Superb L & K 1.8 Tsi At,"Rs. 30,99,599",1798 cc,66 litres,Petrol,"11,3 km/litre",Automatic
+755,Skoda Superb L & K 2.0 Tdi At,"Rs. 33,49,599",1968 cc,66 litres,Diesel,15.1 km/litre,Automatic
+756,Skoda Superb Style 2.0 Tdi At,"Rs. 30,29,599",1968 cc,66 litres,Diesel,15.1 km/litre,Automatic
+757,Skoda Superb Corporate Edition 1.8 Tsi At,"Rs. 25,99,599",1798 cc,66 litres,Petrol,10.1 km/litre,Automatic
+758,Skoda Superb Corporate Edition 2.0 Tdi At,"Rs. 28,49,599",1968 cc,66 litres,Diesel,15.1 km/litre,Automatic
+759,Volvo V40 Kinetic,"Rs. 27,69,000",1984 cc,60 litres,Diesel,"16,8 km/litre",Automatic
+760,Volvo V40 R Design,"Rs. 31,91,000",1984 cc,60 litres,Diesel,"16,8 km/litre",Automatic
+761,Toyota Fortuner 2.8 4X2 At,"Rs. 32,05,000",2755 cc,80 litres,Diesel,12.55 km/litre,Automatic
+762,Toyota Fortuner 2.8 4X2 Mt,"Rs. 30,19,000",2755 cc,80 litres,Diesel,"12,55 km/litre",Manual
+763,Toyota Fortuner 2.8 4X4 Mt,"Rs. 32,16,000",2755 cc,80 litres,Diesel,"12,55 km/litre",Manual
+764,Toyota Fortuner 2.8 4X4 At,"Rs. 33,95,000",2755 cc,80 litres,Diesel,"12,55 km/litre",Automatic
+765,Toyota Fortuner 2.7 4X2 At,"Rs. 29,77,000",2694 cc,80 litres,Petrol,7.8 km/litre,Automatic
+766,Toyota Fortuner 2.7 4X2 Mt,"Rs. 28,18,000",2694 cc,80 litres,Petrol,7.8 km/litre,Manual
+767,Toyota Fortuner Trd Celebratory Edition,"Rs. 34,20,000",2755 cc,80 litres,Diesel,12.55 km/litre,Automatic
+768,Ford Endeavour 3.2L 4X4 At Titanium Plus,"Rs. 34,70,000",3198 cc,80 litres,Diesel,7.7 km/litre,Automatic
+769,Ford Endeavour 2.2L 4X2 At Titanium Plus,"Rs. 32,33,000",2198 cc,80 litres,Diesel,9.3 km/litre,Automatic
+770,Ford Endeavour 2.2L 4X2 Mt Titanium,"Rs. 29,20,000",2198 cc,80 litres,Diesel,9.3 km/litre,Manual
+771,Mini Cooper 3 Door Cooper D,"Rs. 29,90,000",1496 cc,44 litres,Diesel,,Automatic
+772,Mini Cooper 3 Door Cooper S,"Rs. 34,20,000",1998 cc,44 litres,Petrol,,Automatic
+773,Skoda Kodiaq Scout 2.0 Tdi At,"Rs. 33,99,000",1968 cc,63 litres,Diesel,,Automatic
+774,Bmw X1 Sdrive20D Expedition,"Rs. 35,20,000",1995 cc,51 litres,Diesel,18 km/litre,Automatic
+775,Bmw X1 Sdrive20D Xline,"Rs. 39,30,000",1995 cc,51 litres,Diesel,18 km/litre,Automatic
+776,Bmw X1 Xdrive20D M Sport,"Rs. 45,70,000",1995 cc,51 litres,Diesel,18 km/litre,Automatic
+777,Bmw X1 Sdrive20D M Sport,"Rs. 42,40,000",1995 cc,61 litres,Diesel,,Automatic
+778,Bmw X1 Sdrive20I Xline,"Rs. 38,30,000",1998 cc,51 litres,Petrol,15.71 km/litre,Automatic
+779,Volvo S60 Polestar,"Rs. 56,02,000",1969 cc,67 litres,Petrol,13.2 km/litre,Automatic
+780,Volvo S60 Momentum,"Rs. 38,50,500",1984 cc,67.5 litres,Diesel,,Automatic
+781,Bmw 3-Series 320D Sport,"Rs. 41,40,000",1995 cc,40 litres,Diesel,,Automatic
+782,Bmw 3-Series 320D Luxury Line,"Rs. 46,90,000",1995 cc,40 litres,Diesel,,Automatic
+783,Bmw 3-Series 330I M Sport,"Rs. 47,90,000",1998 cc,59 litres,Petrol,,Automatic
+784,Volvo S60 Cross Country D4,"Rs. 44,26,500",2400 cc,67 litres,Diesel,15.6 km/litre,Automatic
+785,Audi Q5 35 Tdi Premium Plus,"Rs. 50,21,200",1968 cc,64 litres,Diesel,12 km/litre,Automatic
+786,Audi Q5 35 Tdi Technology,"Rs. 56,21,200",1968 cc,64 litres,Diesel,12 km/litre,Automatic
+787,Audi Q5 45 Tfsi Premium Plus,"Rs. 50,21,200",1984 cc,70 litres,Petrol,,Automatic
+788,Audi Q5 45 Tfsi Technology,"Rs. 56,21,200",1984 cc,70 litres,Petrol,,Automatic
+789,Land Rover Rover Range Evoque S,"Rs. 54,94,000",1999 cc,,Diesel,,Automatic
+790,Land Rover Rover Range Evoque Se R-Dynamic,"Rs. 59,85,000",1999 cc,,Diesel,,Automatic
+791,Land Rover Rover Range Evoque S Petrol,"Rs. 54,94,000",1997 cc,,Petrol,,Automatic
+792,Land Rover Rover Range Evoque Se R-Dynamic Petrol,"Rs. 59,85,000",1997 cc,,Petrol,,Automatic
+793, Mercedes-Benz E-Class E200,"Rs. 58,61,062",1991 cc,80 litres,Petrol,8.5 km/litre,Automatic
+794, Mercedes-Benz E-Class E350 D,"Rs. 72,85,332",2987 cc,80 litres,Diesel,7.45 km/litre,Automatic
+795, Mercedes-Benz E-Class E220D,"Rs. 59,64,321",2987 cc,80 litres,Diesel,,Automatic
+796, Mercedes-Benz E-Class E 63 S Amg,"Rs. 1,50,00,000",5461 cc,80 litres,Petrol,4.5 km/litre,Automatic
+797, Mercedes-Benz E-Class E200 Expression,"Rs. 57,50,000",1991 cc,80 litres,Petrol,8.5 km/litre,Automatic
+798, Mercedes-Benz E-Class E200 Exclusive,"Rs. 61,50,000",1991 cc,80 litres,Petrol,8.5 km/litre,Automatic
+799, Mercedes-Benz E-Class E220D Expression,"Rs. 58,50,000",2987 cc,80 litres,Diesel,,Automatic
+800, Mercedes-Benz E-Class E220D Exclusive,"Rs. 62,50,000",2987 cc,80 litres,Diesel,,Automatic
+801,Volvo Xc60 Inscription D5,"Rs. 59,90,000",1969 cc,70 litres,Diesel,11.7 km/litre,Automatic
+802,Bmw X4 Xdrive20D M Sport X,"Rs. 60,60,000",1995 cc,60 litres,Diesel,,Automatic
+803,Bmw X4 Xdrive30D M Sport X,"Rs. 65,90,000",2993 cc,68 litres,Diesel,,Automatic
+804,Bmw X4 Xdrive30I M Sport X,"Rs. 63,50,000",1998 cc,68 litres,Petrol,,Automatic
+805,Jeep Wrangler Unlimited,"Rs. 63,94,000",1999 cc,85 litres,Petrol,17.5 km/litre,Automatic
+806, Mercedes-Benz C-Class Cabriolet C300,"Rs. 64,26,497",1991 cc,60 litres,Petrol,,Automatic
+807,Bmw Z4 Roadster Sdrive 20I,"Rs. 64,90,000",1998 cc,52 litres,Petrol,,Automatic
+808,Bmw Z4 Roadster M 40I,"Rs. 78,90,000",2998 cc,52 litres,Petrol,,Automatic
+809, Mercedes-Benz V-Class Expression Elwb,"Rs. 68,40,000",2143 cc,93 litres,Diesel,,Automatic
+810, Mercedes-Benz V-Class Exclusive Lwb,"Rs. 81,90,000",2143 cc,93 litres,Diesel,,Automatic
+811, Mercedes-Benz V-Class Elite,"Rs. 1,10,00,000",1950 cc,70 litres,Diesel,,Automatic
+812,Audi Q7 45 Tdi Premium Plus,"Rs. 72,21,500",2967 cc,75 litres,Diesel,9.3 km/litre,Automatic
+813,Audi Q7 45 Tdi Technology Pack,"Rs. 80,21,500",2967 cc,75 litres,Diesel,9.3 km/litre,Automatic
+814,Audi Q7 40 Tfsi Quattro Premium Plus,"Rs. 69,21,500",1984 cc,75 litres,Petrol,,Automatic
+815,Audi Q7 40 Tfsi Quattro Technology Pack,"Rs. 76,21,500",1984 cc,75 litres,Petrol,,Automatic
+816,Audi Q7 45 Tdi Black Styling,"Rs. 81,11,500",2967 cc,75 litres,Diesel,9.3 km/litre,Automatic
+817,Audi Q7 40 Tfsi Quattro Black Styling,"Rs. 77,11,500",1984 cc,75 litres,Petrol,,Automatic
+818,Land Rover Rover Range Evoque Convertible 2.0 Hse Dynamic,"Rs. 69,52,964",1998 cc,,Petrol,15.68 km/litre,Automatic
+819,Land Rover Rover Range Velar 2.0 Diesel R-Dynamic S,"Rs. 72,46,802",1999 cc,,Diesel,15.68 km/litre,Automatic
+820,Land Rover Rover Range Velar 2.0 Petrol R-Dynamic S,"Rs. 72,46,802",1997 cc,65 litres,Petrol,12.63 km/litre,Automatic
+821, Mercedes-Benz E-Class All Terrain E 220D,"Rs. 75,00,000",1950 cc,80 litres,Diesel,,Automatic
+822,Volvo Xc90 D5 Inscription,"Rs. 87,90,000",1969 cc,68 litres,Diesel,13.2 km/litre,Automatic
+823,Volvo Xc90 D5 Momentum,"Rs. 80,90,000",1969 cc,68 litres,Diesel,13.2 km/litre,Automatic
+824,Volvo Xc90 T8 Excellence,"Rs. 1,31,24,000",1969 cc,68 litres,Hybrid,5 km/litre,Automatic
+825,Volvo Xc90 T8 Inscription,"Rs. 96,65,000",1969 cc,68 litres,Hybrid,,Automatic
+826,Volvo Xc90 D5 R-Design,"Rs. 84,91,500",1969 cc,68 litres,Diesel,13.2 km/litre,Automatic
+827,Land Rover Rover Range Sport 5.0L V8 Svr Petrol,"Rs. 2,05,17,853",4999 cc,,Petrol,,Automatic
+828,Land Rover Rover Range Sport 2.0L S Petrol,"Rs. 86,70,586",1997 cc,105 litres,Petrol,,Automatic
+829,Land Rover Rover Range Sport 2.0L Se Petrol,"Rs. 94,48,181",1997 cc,105 litres,Petrol,,Automatic
+830,Land Rover Rover Range Sport 3.0L V6 Se Petrol,"Rs. 1,14,76,911",2995 cc,85 litres,Petrol,,Automatic
+831,Land Rover Rover Range Sport 2.0L Hse Petrol,"Rs. 1,56,00,000",1997 cc,105 litres,Petrol,,Automatic
+832,Land Rover Rover Range Sport 3.0L V6 Hse Petrol,"Rs. 1,32,28,725",2995 cc,85 litres,Petrol,,Automatic
+833,Land Rover Rover Range Sport 5.0L V8 Autobiography Dynamic Petrol,"Rs. 1,79,40,227",4999 cc,,Petrol,,Automatic
+834,Land Rover Rover Range Sport 3.0L Tdv6 S Diesel,"Rs. 1,03,73,732",2993 cc,80 litres,Diesel,,Automatic
+835,Land Rover Rover Range Sport 3.0L Tdv6 Se Diesel,"Rs. 1,19,13,021",2993 cc,80 litres,Diesel,,Automatic
+836,Land Rover Rover Range Sport 4.4L Sdv8 Hse Diesel,"Rs. 1,49,08,985",4367 cc,105 litres,Diesel,5.9 km/litre,Automatic
+837,Jaguar Xj 3.0L,"Rs. 97,38,609",2993 cc,82 litres,Diesel,9.5 km/litre,Automatic
+838,Jaguar Xj 3.0L Portfolio,"Rs. 1,07,25,145",2993 cc,83 litres,Diesel,9.5 km/litre,Automatic
+839,Jaguar Xj 50,"Rs. 1,11,29,599",2993 cc,82 litres,Diesel,9.5 km/litre,Automatic
+840,Porsche Cayenne E-Hybrid,"Rs. 1,58,06,000",2995 cc,75 litres,Hybrid,,Automatic
+841,Porsche Cayenne Turbo,"Rs. 1,92,10,000",3996 cc,90 litres,Petrol,,Automatic
+842,Porsche Cayenne Base,"Rs. 1,19,36,000",2995 cc,75 litres,Petrol,,Automatic
+843,Maserati Ghibli Diesel,"Rs. 1,33,87,856",2987 cc,70 litres,Diesel,,Automatic
+844,Maserati Ghibli Gransport,"Rs. 1,38,81,858",2987 cc,70 litres,Diesel,,Automatic
+845,Maserati Ghibli Granlusso,"Rs. 1,42,47,814",2987 cc,70 litres,Diesel,,Automatic
+846,Toyota Land Cruiser Vx,"Rs. 1,46,99,000",4461 cc,93 litres,Diesel,5.3 km/litre,Automatic
+847,Audi Rs7 Sportback,"Rs. 1,70,72,000",3993 cc,75 litres,Petrol,5.6 km/litre,Automatic
+848,Land Rover Rover Range 5.0L V8 Autobiography Petrol,"Rs. 2,60,37,526",4999 cc,105 litres,Petrol,4.4 km/litre,Automatic
+849,Land Rover Rover Range 5.0L V8 Svautobiography Dynamic Petrol,"Rs. 3,25,22,000",4999 cc,105 litres,Petrol,4.4 km/litre,Automatic
+850,Land Rover Rover Range 3.0L V6 Vogue Lwb Petrol,"Rs. 1,95,27,130",2995 cc,85 litres,Petrol,8.1 km/litre,Automatic
+851,Land Rover Rover Range 5.0L V8 Svautobiography Lwb Petrol,"Rs. 4,04,99,548",4999 cc,65 litres,Petrol,8 km/litre,Automatic
+852,Land Rover Rover Range 3.0L Tdv6 Vogue Diesel,"Rs. 1,81,85,267",2993 cc,,Diesel,,Automatic
+853,Land Rover Rover Range 3.0L Tdv6 Vogue Lwb Diesel,"Rs. 1,95,27,130",2993 cc,,Diesel,,Automatic
+854,Land Rover Rover Range 4.4L Sdv8 Autobiography Lwb Diesel,"Rs. 2,51,74,051",4367 cc,,Diesel,,Automatic
+855,Land Rover Rover Range 4.4L Sdv8 Svautobiography Lwb Diesel,"Rs. 3,92,94,685",4367 cc,,Diesel,8.69 km/litre,Automatic
+856,Land Rover Rover Range 4.4L Sdv8 Vogue Se Lwb Diesel,"Rs. 2,36,75,691",4367 cc,,Diesel,,Automatic
+857,Land Rover Rover Range 3.0L V6 Vogue Se Lwb Petrol,"Rs. 2,13,98,758",2995 cc,85 litres,Petrol,8.1 km/litre,Automatic
+858,Maserati Grancabrio Standard,"Rs. 1,98,65,675",4691 cc,75 litres,Petrol,4 km/litre,Automatic
+859, Mercedes-Benz Amg-Gt S,"Rs. 2,15,83,466",3982 cc,75 litres,Petrol,5 km/litre,Automatic
+860, Mercedes-Benz Amg-Gt R,"Rs. 2,32,64,134",3982 cc,75 litres,Petrol,5 km/litre,Automatic
+861, Mercedes-Benz Amg-Gt Roadster,"Rs. 2,27,33,626",3982 cc,75 litres,Petrol,5 km/litre,Automatic
+862, Mercedes-Benz Amg Gt 4-Door Coupe 63 S 4Matic+,"Rs. 2,42,00,000",,65 litres,Petrol,,Automatic
+863,Lamborghini Huracan Lp 610-4,"Rs. 3,71,33,704",5204 cc,90 litres,Petrol,5.6 km/litre,Automatic
+864,Lamborghini Huracan Lp 580-2,"Rs. 3,24,52,486",5204 cc,90 litres,Petrol,5.8 km/litre,Automatic
+865,Lamborghini Huracan Avio,"Rs. 3,51,50,732",5204 cc,90 litres,Petrol,10.6 km/litre,Automatic
+866,Lamborghini Huracan Performante,"Rs. 3,76,14,126",5204 cc,90 litres,Petrol,5.6 km/litre,Automatic
+867,Lamborghini Huracan Lp 580-2 Spyder,"Rs. 3,55,35,000",5204 cc,90 litres,Petrol,5.8 km/litre,Automatic
+868,Lamborghini Huracan Lp 610-4 Spyder,"Rs. 4,07,42,932",5204 cc,90 litres,Petrol,5.6 km/litre,Automatic
+869,Lamborghini Huracan Evo,"Rs. 3,73,00,000",5204 cc,90 litres,Petrol,5.6 km/litre,Automatic
+870,Lamborghini Huracan Evo Spyder,"Rs. 4,10,00,000",5204 cc,,Petrol,5.6 km/litre,Automatic
+871,Lamborghini Huracan Evo Rwd,"Rs. 3,22,00,000",5204 cc,90 litres,Petrol,5.6 km/litre,Automatic
+872,Ferrari 488 Gtb Std,"Rs. 3,67,61,413",3902 cc,78 litres,Petrol,3.2 km/litre,Automatic
+873,Ferrari 488 Gtb Spider,"Rs. 3,93,19,552",3902 cc,78 litres,Petrol,3.2 km/litre,Automatic
+874,Ferrari Gtc4 Lusso V8 T,"Rs. 4,20,00,000",3900 cc,91 litres,Petrol,,Automatic
+875,Ferrari Gtc4 Lusso V12,"Rs. 5,20,00,000",6262 cc,91 litres,Petrol,,Automatic
+876,Lamborghini Aventador Lp 700-4,"Rs. 4,78,93,943",6498 cc,90 litres,Petrol,3 km/litre,Automatic
+877,Lamborghini Aventador Lp700-4 Roadster,"Rs. 5,32,10,327",6498 cc,90 litres,Petrol,3.6 km/litre,Automatic
+878,Lamborghini Aventador S,"Rs. 4,74,67,700",6498 cc,90 litres,Petrol,3.6 km/litre,Automatic
+879, Rolls-Royce Dawn Convertible,"Rs. 5,92,16,193",6598 cc,80 litres,Petrol,7.9 km/litre,Automatic
+880, Rolls-Royce Drophead Coupe Phantom,"Rs. 8,37,55,383",6749 cc,100 litres,Petrol,4.38 km/litre,Automatic
+881,Maruti Suzuki Omni 5 Str Bs-Iv,"Rs. 2,82,778",796 cc,35 litres,Petrol,13 km/litre,Manual
+882,Maruti Suzuki Omni E 8 Str Bs-Iv,"Rs. 2,84,485",796 cc,36 litres,Petrol,13 km/litre,Manual
+883, Go+ Datsun D,"Rs. 4,12,292",1198 cc,35 litres,Petrol,12.8 km/litre,Manual
+884, Go+ Datsun T,"Rs. 5,52,656",1198 cc,35 litres,Petrol,12.8 km/litre,Manual
+885, Go+ Datsun T (O),"Rs. 5,74,448",1198 cc,35 litres,Petrol,16.3 km/litre,Manual
+886, Go+ Datsun A (O),"Rs. 5,55,196",1198 cc,35 litres,Petrol,20.62 km/litre,Manual
+887, Go+ Datsun A,"Rs. 5,00,575",1198 cc,35 litres,Petrol,20.62 km/litre,Manual
+888, Go+ Datsun T Vdc,"Rs. 5,93,361",1198 cc,35 litres,Petrol,12.8 km/litre,Manual
+889, Go+ Datsun T (O) Vdc,"Rs. 6,15,153",1198 cc,35 litres,Petrol,16.3 km/litre,Manual
+890, Go+ Datsun T Cvt,"Rs. 6,58,361",1198 cc,35 litres,Petrol,12.8 km/litre,Manual
+891, Go+ Datsun T (O) Cvt,"Rs. 6,80,153",1198 cc,35 litres,Petrol,16.3 km/litre,Manual
+892,Fiat Punto Evo Pure 1.2L Fire Dynamic,"Rs. 4,82,330",1172 cc,45 litres,Petrol,12 km/litre,Manual
+893,Fiat Punto Evo Pure 1.3,"Rs. 5,75,947",1248 cc,45 litres,Diesel,,Manual
+894,Ford Figo Ambiente 1.2 Ti-Vct,"Rs. 5,23,000",1194 cc,42 litres,Petrol,,Manual
+895,Ford Figo Ambiente 1.5 Tdci,"Rs. 6,23,000",1498 cc,40 litres,Diesel,17 km/litre,Manual
+896,Ford Figo Titanium 1.2 Ti-Vct,"Rs. 5,99,900",1196 cc,42 litres,Petrol,,Manual
+897,Ford Figo Titanium1.5 Tdci,"Rs. 6,99,900",1498 cc,40 litres,Diesel,,Manual
+898,Ford Figo Titanium Blu 1.2 Ti-Vct,"Rs. 6,64,900",1194 cc,42 litres,Petrol,,Manual
+899,Ford Figo Titanium Blu 1.5 Tdci,"Rs. 7,64,900",1498 cc,40 litres,Diesel,,Manual
+900,Maruti Suzuki Baleno 1.3 Delta,"Rs. 7,46,621",1248 cc,37 litres,Diesel,27.39 km/litre,Manual
+901,Maruti Suzuki Baleno 1.3 Alpha,"Rs. 8,68,221",1248 cc,37 litres,Diesel,27.39 km/litre,Manual
+902,Maruti Suzuki Baleno 1.3 Sigma,"Rs. 6,68,611",1248 cc,37 litres,Diesel,27.39 km/litre,Manual
+903,Maruti Suzuki Baleno 1.3 Zeta,"Rs. 8,07,921",1248 cc,37 litres,Diesel,27.39 km/litre,Manual
+904,Maruti Suzuki Baleno 1.2 Alpha,"Rs. 7,58,212",1197 cc,37 litres,Petrol,21.4 km/litre,Manual
+905,Maruti Suzuki Baleno 1.2 Alpha Cvt,"Rs. 8,90,212",1197 cc,37 litres,Petrol,21.4 km/litre,Automatic
+906,Maruti Suzuki Baleno 1.2 Delta,"Rs. 6,36,612",1197 cc,37 litres,Petrol,21.4 km/litre,Manual
+907,Maruti Suzuki Baleno 1.2 Delta Cvt,"Rs. 7,68,612",1197 cc,37 litres,Petrol,21.4 km/litre,Automatic
+908,Maruti Suzuki Baleno 1.2 Sigma,"Rs. 5,58,602",1197 cc,37 litres,Petrol,21.4 km/litre,Manual
+909,Maruti Suzuki Baleno 1.2 Zeta,"Rs. 6,97,912",1197 cc,37 litres,Petrol,21.4 km/litre,Manual
+910,Maruti Suzuki Baleno 1.2 Delta Dualjet,"Rs. 7,33,412",1197 cc,37 litres,Petrol,21.4 km/litre,Manual
+911,Maruti Suzuki Baleno 1.2 Zeta Dualjet,"Rs. 7,89,912",1197 cc,37 litres,Petrol,21.4 km/litre,Manual
+912,Maruti Suzuki Baleno 1.2 Zeta Cvt,"Rs. 8,29,912",1197 cc,37 litres,Petrol,21.4 km/litre,Automatic
+913,Hyundai Grand I10 1.2 Kappa Vtvt Magna,"Rs. 5,86,428",1197 cc,43 litres,Petrol,18.9 km/litre,Manual
+914,Hyundai Grand I10 1.2 Kappa Vtvt Sportz,"Rs. 6,20,637",1197 cc,43 litres,Petrol,18.9 km/litre,Manual
+915,Hyundai Grand I10 1.2 Kappa Vtvt Magna At,"Rs. 6,52,328",1197 cc,43 litres,Petrol,18.9 km/litre,Automatic
+916,Hyundai Grand I10 1.2 Kappa Vtvt Sportz At,"Rs. 7,05,538",1197 cc,43 litres,Petrol,18.9 km/litre,Automatic
+917,Hyundai Grand I10 1.2 Kappa Vtvt Sportz Dual Tone,"Rs. 6,40,537",1197 cc,43 litres,Petrol,18.9 km/litre,Manual
+918,Hyundai Grand I10 1.2 Kappa Vtvt Magna Cng,"Rs. 6,53,452",1197 cc,43 litres,CNG,,Manual
+919,Fiat Linea Classic 1.3 Multijet,"Rs. 7,51,203",1248 cc,45 litres,Diesel,16.2 km/litre,Manual
+920,Fiat Linea Classic 1.4,"Rs. 6,46,336",1368 cc,45 litres,Petrol,11.4 km/litre,Manual
+921,Fiat Linea Classic Plus 1.3 Multijet,"Rs. 8,08,558",1248 cc,45 litres,Diesel,16.2 km/litre,Manual
+922,Nissan Sunny Xe Petrol,"Rs. 7,07,025",1498 cc,41 litres,Petrol,10.6 km/litre,Manual
+923,Nissan Sunny Xl Petrol,"Rs. 8,36,461",1498 cc,41 litres,Petrol,10.6 km/litre,Manual
+924,Nissan Sunny Xl Diesel,"Rs. 9,12,534",1461 cc,41 litres,Diesel,18 km/litre,Manual
+925,Nissan Sunny Xv Diesel,"Rs. 9,93,997",1461 cc,41 litres,Diesel,18 km/litre,Manual
+926,Nissan Sunny Xe Diesel,"Rs. 8,60,997",1461 cc,41 litres,Diesel,18 km/litre,Manual
+927,Nissan Sunny Xv Cvt,"Rs. 9,93,997",1498 cc,41 litres,Petrol,10.6 km/litre,Automatic
+928,Nissan Sunny Special Edition Diesel,"Rs. 8,77,285",1461 cc,41 litres,Diesel,18 km/litre,Manual
+929,Maruti Suzuki Ertiga Lxi,"Rs. 7,59,000",1462 cc,45 litres,Petrol,,Manual
+930,Maruti Suzuki Ertiga Zxi,"Rs. 9,17,000",1462 cc,45 litres,Petrol,,Manual
+931,Maruti Suzuki Ertiga Vxi At,"Rs. 9,36,000",1462 cc,45 litres,Petrol,,Automatic
+932,Maruti Suzuki Ertiga Zxi Plus,"Rs. 9,71,000",1462 cc,45 litres,Petrol,,Manual
+933,Maruti Suzuki Ertiga Vxi,"Rs. 8,34,000",1462 cc,45 litres,Petrol,,Manual
+934,Maruti Suzuki Ertiga Zxi At,"Rs. 10,13,000",1462 cc,45 litres,Petrol,,Automatic
+935,Maruti Suzuki Ertiga 1.5L Vdi,"Rs. 9,86,689",1498 cc,45 litres,Diesel,,Manual
+936,Maruti Suzuki Ertiga 1.5L Zdi,"Rs. 10,69,689",1498 cc,45 litres,Diesel,,Manual
+937,Maruti Suzuki Ertiga 1.5L Zdi Plus,"Rs. 11,20,689",1498 cc,45 litres,Diesel,,Manual
+938,Maruti Suzuki Ertiga Vxi Cng (Cng +,"Rs. 8,87,689",1462 cc,45 litres,CNG + Petrol,,Manual
+939,Maruti Suzuki Baleno Rs Rs 1.0,"Rs. 7,88,913",998 cc,37 litres,Petrol,21.4 km/litre,Manual
+940,Honda Wr-V Vx Diesel,"Rs. 10,35,000",1498 cc,40 litres,Diesel,25.5 km/litre,Manual
+941,Honda Wr-V Vx Petrol,"Rs. 9,25,000",1199 cc,40 litres,Petrol,17.5 km/litre,Manual
+942,Honda Wr-V S Diesel,"Rs. 9,25,000",1498 cc,40 litres,Diesel,25.5 km/litre,Manual
+943,Honda Wr-V S Petrol,"Rs. 8,15,000",1199 cc,40 litres,Petrol,17.5 km/litre,Manual
+944,Honda Wr-V Edge Plus Edition Diesel,"Rs. 9,16,050",1498 cc,40 litres,Diesel,25.5 km/litre,Manual
+945,Honda Wr-V Edge Plus Edition Petrol,"Rs. 8,08,050",1199 cc,40 litres,Petrol,17.5 km/litre,Manual
+946,Honda Wr-V Exclusive Edition Diesel,"Rs. 10,48,050",1498 cc,40 litres,Diesel,25.5 km/litre,Manual
+947,Honda Wr-V Exclusive Edition Petrol,"Rs. 9,35,050",1199 cc,40 litres,Petrol,17.5 km/litre,Manual
+948,Honda Wr-V V Diesel,"Rs. 9,95,000",1498 cc,40 litres,Diesel,25.5 km/litre,Manual
+949,Mahindra Tuv300 T4 Plus,"Rs. 8,54,328",1493 cc,60 litres,Diesel,18.49 km/litre,Manual
+950,Mahindra Tuv300 T6 Plus,"Rs. 9,14,328",1493 cc,60 litres,Diesel,18.49 km/litre,Manual
+951,Mahindra Tuv300 T8,"Rs. 9,76,592",1493 cc,60 litres,Diesel,18.49 km/litre,Manual
+952,Mahindra Tuv300 T10,"Rs. 9,99,614",1493 cc,60 litres,Diesel,18.49 km/litre,Manual
+953,Mahindra Tuv300 T10 (O),"Rs. 10,31,943",1493 cc,60 litres,Diesel,18.49 km/litre,Manual
+954,Mahindra Tuv300 T10 Dual Tone,"Rs. 10,22,930",1493 cc,60 litres,Diesel,18.49 km/litre,Manual
+955,Mahindra Tuv300 T10 (O) Dual Tone,"Rs. 10,55,259",1493 cc,60 litres,Diesel,18.49 km/litre,Manual
+956,Maruti Suzuki S-Cross 1.3L Sigma,"Rs. 8,80,689",1248 cc,48 litres,Diesel,23.65 km/litre,Manual
+957,Maruti Suzuki S-Cross 1.3L Delta,"Rs. 9,92,689",1248 cc,48 litres,Diesel,23.65 km/litre,Manual
+958,Maruti Suzuki S-Cross 1.3L Zeta,"Rs. 10,43,689",1248 cc,48 litres,Diesel,23.65 km/litre,Manual
+959,Maruti Suzuki S-Cross 1.3L Alpha,"Rs. 11,43,689",1248 cc,48 litres,Diesel,23.65 km/litre,Manual
+960,Renault Captur Rxe Petrol,"Rs. 9,49,999",1498 cc,50 litres,Petrol,,Manual
+961,Renault Captur Rxe Diesel,"Rs. 10,49,999",1461 cc,50 litres,Diesel,,Manual
+962,Renault Captur Platine Diesel Dual Tone,"Rs. 12,99,999",1461 cc,50 litres,Diesel,,Manual
+963,Renault Captur Platine Petrol Dual Tone,"Rs. 11,99,999",1498 cc,50 litres,Petrol,,Manual
+964,Mahindra Xylo D2 Bs-Iv,"Rs. 9,63,037",2489 cc,55 litres,Diesel,10.7 km/litre,Manual
+965,Mahindra Xylo D4 Bs-Iv,"Rs. 10,04,487",2489 cc,55 litres,Diesel,10.3 km/litre,Manual
+966,Mahindra Xylo H4 Bs-Iv,"Rs. 10,31,951",2179 cc,55 litres,Diesel,11.4 km/litre,Manual
+967,Mahindra Xylo H4 Abs Bs-Iv,"Rs. 10,66,139",2179 cc,55 litres,Diesel,11.4 km/litre,Manual
+968,Mahindra Xylo H8 Abs Airbags Bs-Iv,"Rs. 12,28,335",2179 cc,55 litres,Diesel,11.4 km/litre,Manual
+969,Kia Seltos Hte 1.5,"Rs. 9,89,000",1497 cc,60 litres,Petrol,,Manual
+970,Kia Seltos Htk 1.5,"Rs. 10,29,000",1497 cc,60 litres,Petrol,,Manual
+971,Kia Seltos Htk Plus 1.5,"Rs. 11,49,000",1497 cc,60 litres,Petrol,,Manual
+972,Kia Seltos Htx 1.5,"Rs. 13,09,000",1497 cc,60 litres,Petrol,,Manual
+973,Kia Seltos Htx Cvt 1.5,"Rs. 14,09,000",1497 cc,60 litres,Petrol,,Automatic
+974,Kia Seltos Hte 1.5 Diesel,"Rs. 10,34,000",1493 cc,60 litres,Diesel,,Manual
+975,Kia Seltos Htk 1.5 Diesel,"Rs. 11,54,000",1493 cc,60 litres,Diesel,,Manual
+976,Kia Seltos Htk Plus 1.5 Diesel,"Rs. 12,54,000",1493 cc,60 litres,Diesel,,Manual
+977,Kia Seltos Htk Plus At 1.5 Diesel,"Rs. 13,54,000",1493 cc,60 litres,Diesel,,Automatic
+978,Kia Seltos Htx Plus 1.5 Diesel,"Rs. 15,34,000",1493 cc,60 litres,Diesel,,Manual
+979,Kia Seltos Htx Plus At 1.5 Diesel,"Rs. 16,34,000",1493 cc,60 litres,Diesel,,Automatic
+980,Kia Seltos Gtk 1.4,"Rs. 13,79,000",1353 cc,50 litres,Petrol,,Manual
+981,Kia Seltos Gtx 1.4,"Rs. 15,29,000",1353 cc,50 litres,Petrol,,Manual
+982,Kia Seltos Gtx At 1.4,"Rs. 16,29,000",1353 cc,50 litres,Petrol,,DCT
+983,Kia Seltos Gtx Plus 1.4,"Rs. 16,29,000",1353 cc,50 litres,Petrol,,Manual
+984,Kia Seltos Htx 1.5 Diesel,"Rs. 14,14,000",1493 cc,60 litres,Diesel,,Manual
+985,Nissan Terrano Xe D 85Ps,"Rs. 9,99,900",1461 cc,50 litres,Diesel,17.1 km/litre,Manual
+986,Nissan Terrano Xv D Premium 110 Ps Amt,"Rs. 14,64,900",1461 cc,50 litres,Diesel,16 km/litre,Automatic
+987,Nissan Terrano Xl (P),"Rs. 9,99,900",1598 cc,50 litres,Petrol,10.1 km/litre,Manual
+988,Nissan Terrano Xl D(O),"Rs. 12,35,700",1461 cc,50 litres,Diesel,17.1 km/litre,Manual
+989,Nissan Terrano Xv D Premium 110 Ps,"Rs. 14,19,900",1461 cc,50 litres,Diesel,16 km/litre,Manual
+990,Nissan Terrano Sport Edition,"Rs. 12,35,700",1461 cc,50 litres,Diesel,17.1 km/litre,Manual
+991,Tata Safari Storme 2.2 Lx 4X2,"Rs. 11,09,005",2179 cc,63 litres,Diesel,10.8 km/litre,Manual
+992,Tata Safari Storme 2.2 Ex 4X2,"Rs. 13,35,158",2179 cc,63 litres,Diesel,10.8 km/litre,Manual
+993,Tata Safari Storme 2.2 Vx 4X2 Varicor 400,"Rs. 14,79,574",2179 cc,63 litres,Diesel,10.8 km/litre,Manual
+994,Tata Safari Storme 2.2 Vx 4X4 Varicor 400,"Rs. 16,43,829",2179 cc,63 litres,Diesel,"13,93 km/litre",Manual
+995,Mg Hector 1.5L Style,"Rs. 12,48,000",1500 cc,,Petrol,,Manual
+996,Mg Hector 2.0L Style,"Rs. 13,48,000",2000 cc,,Diesel,,Manual
+997,Mg Hector 2.0L Super,"Rs. 14,48,000",2000 cc,,Diesel,,Manual
+998,Mg Hector 2.0L Smart,"Rs. 15,88,000",2000 cc,,Diesel,,Manual
+999,Mg Hector 2.0L Sharp,"Rs. 17,28,000",2000 cc,,Diesel,,Manual
+1000,Mg Hector 1.5L Super,"Rs. 13,28,000",1500 cc,,Petrol,,Manual
+1001,Mg Hector 1.5L Super Hybrid,"Rs. 13,88,000",1500 cc,,Hybrid,,Manual
+1002,Mg Hector 1.5L Sharp Hybrid,"Rs. 16,28,000",1500 cc,,Hybrid,,Manual
+1003,Mg Hector 1.5L Smart Hybrid,"Rs. 14,98,000",1500 cc,,Hybrid,,Manual
+1004,Mg Hector 1.5L Smart Dct,"Rs. 15,68,000",1500 cc,,Petrol,,DCT
+1005,Mg Hector 1.5L Sharp Dct,"Rs. 17,18,000",1500 cc,,Petrol,,DCT
+1006,Tata Nexon Ev Xm,"Rs. 13,99,000",,,Electric,,Automatic
+1007,Tata Nexon Ev Xz Plus,"Rs. 14,99,000",,,Electric,,Automatic
+1008,Tata Nexon Ev Xz Plus Lux,"Rs. 15,99,000",,,Electric,,Automatic
+1009,Hyundai Elantra S,"Rs. 15,89,000",1999 cc,50 litres,Petrol,13.1 km/litre,Manual
+1010,Hyundai Elantra Sx,"Rs. 18,49,000",1999 cc,50 litres,Petrol,13.1 km/litre,Manual
+1011,Hyundai Elantra Sx At,"Rs. 19,49,000",1999 cc,50 litres,Petrol,13.1 km/litre,AMT
+1012,Hyundai Elantra Sx(O) At,"Rs. 20,39,000",1999 cc,50 litres,Petrol,13.1 km/litre,AMT
+1013,Hyundai Tucson 2Wd Mt Diesel,"Rs. 20,79,717",1995 cc,62 litres,Diesel,"16,38 km/litre",Manual
+1014,Hyundai Tucson 2Wd Mt Petrol,"Rs. 18,76,656",1999 cc,62 litres,Petrol,"13,3 km/litre",Manual
+1015,Hyundai Tucson 2Wd At Gl Diesel,"Rs. 23,64,354",1995 cc,62 litres,Diesel,"16,38 km/litre",Automatic
+1016,Hyundai Tucson 2Wd At Gl Petrol,"Rs. 21,87,384",1999 cc,62 litres,Petrol,"13,3 km/litre",Automatic
+1017,Hyundai Tucson 4Wd At Gls Diesel,"Rs. 26,97,417",1995 cc,62 litres,Diesel,16.38 km/litre,Automatic
+1018,Hyundai Tucson 2Wd At Gls Petrol,"Rs. 23,73,522",1999 cc,62 litres,Petrol,13.3 km/litre,Automatic
+1019,Hyundai Tucson 2Wd At Gl(O) Petrol,"Rs. 22,46,749",1999 cc,62 litres,Petrol,13.3 km/litre,Automatic
+1020,Hyundai Tucson 2Wd At Gl(O) Diesel,"Rs. 24,23,720",1995 cc,62 litres,Diesel,16.38 km/litre,Automatic
+1021,Volkswagen Passat 2.0 Tdi Comfortline,"Rs. 30,21,500",1968 cc,55 litres,Diesel,,Automatic
+1022,Volkswagen Passat 2.0 Tdi Highline,"Rs. 33,21,500",1968 cc,66 litres,Diesel,,Automatic
+1023,Volkswagen Passat 2.0 Tdi Comfortline Connect,"Rs. 25,99,000",1968 cc,55 litres,Diesel,,Automatic
+1024,Volkswagen Passat 2.0 Tdi Highline Connect,"Rs. 28,99,000",1968 cc,66 litres,Diesel,,Automatic
+1025, Mercedes-Benz A-Class 180,"Rs. 27,85,288",1595 cc,50 litres,Petrol,12.03 km/litre,Automatic
+1026, Mercedes-Benz A-Class 200D,"Rs. 28,86,871",2143 cc,50 litres,Diesel,12.03 km/litre,Automatic
+1027,Volvo V40 Cross Country D3,"Rs. 32,83,000",1984 cc,60 litres,Diesel,13.05 km/litre,Automatic
+1028,Volvo V40 Cross Country T4,"Rs. 29,62,000",1596 cc,50 litres,Petrol,12 km/litre,Automatic
+1029,Mini Countryman Cooper S,"Rs. 34,90,000",1998 cc,47 litres,Petrol,,Automatic
+1030,Mini Countryman Cooper Sd,"Rs. 37,40,000",1998 cc,47 litres,Diesel,,Automatic
+1031,Mini Countryman Cooper S Jcw Inspired,"Rs. 41,40,000",1998 cc,47 litres,Petrol,,Automatic
+1032,Mini Countryman Black Edition,"Rs. 42,40,000",1998 cc,47 litres,Petrol,,Automatic
+1033, Mercedes-Benz C-Class C 220D Prime,"Rs. 40,20,000",1950 cc,66 litres,Diesel,,Automatic
+1034, Mercedes-Benz C-Class C 220D Progressive,"Rs. 46,70,000",1950 cc,66 litres,Diesel,,Automatic
+1035, Mercedes-Benz C-Class C 300D Amg Line,"Rs. 49,74,750",1950 cc,66 litres,Diesel,,Automatic
+1036, Mercedes-Benz C-Class C 43 Amg,"Rs. 75,00,000",3982 cc,66 litres,Petrol,,Automatic
+1037, Mercedes-Benz C-Class C 200 Prime,"Rs. 40,90,000",1497 cc,66 litres,Petrol,,Automatic
+1038, Mercedes-Benz C-Class C 200 Progressive,"Rs. 46,54,000",1497 cc,66 litres,Petrol,,Automatic
+1039,Toyota Prius Z8,"Rs. 45,09,000",1798 cc,43 litres,Hybrid,15.1 km/litre,Automatic
+1040,Lexus Es 300H,"Rs. 56,95,000",2487 cc,,Hybrid,17.8 km/litre,Automatic
+1041,Lexus Nx 300H F-Sport,"Rs. 60,60,000",2494 cc,56 litres,Petrol,,Automatic
+1042,Lexus Nx 300H Luxury,"Rs. 59,90,000",2494 cc,56 litres,Petrol,,Automatic
+1043,Jaguar F-Pace Prestige,"Rs. 64,63,780",1999 cc,60 litres,Diesel,21.27 km/litre,Automatic
+1044,Jaguar F-Pace Prestige Petrol,"Rs. 64,22,809",1997 cc,60 litres,Petrol,,Automatic
+1045,Volvo V90 Cross Country D5 Inscription,"Rs. 65,31,000",1969 cc,60 litres,Diesel,13.2 km/litre,Automatic
+1046,Audi A5 Cabriolet 2.0 Tdi,"Rs. 69,48,200",1968 cc,58 litres,Diesel,,Automatic
+1047, Mercedes-Benz Gle 300D 4Matic,"Rs. 73,70,000",1950 cc,93 litres,Diesel,,Automatic
+1048, Mercedes-Benz Gle 400D 4Matic Hip Hop Edition,"Rs. 1,25,00,000",2925 cc,93 litres,Diesel,,Automatic
+1049, Mercedes-Benz Cls 300D,"Rs. 84,70,000",1950 cc,,Diesel,,Automatic
+1050,Bmw X7 Xdrive 40I,"Rs. 1,04,90,000",2998 cc,80 litres,Petrol,,Automatic
+1051,Bmw X7 Xdrive30D Dpe Signature,"Rs. 1,02,50,000",2993 cc,80 litres,Diesel,,Automatic
+1052,Bmw M4 Coupe,"Rs. 1,35,90,000",2979 cc,60 litres,Petrol,7.32 km/litre,Automatic
+1053,Porsche 911 Carrera S,"Rs. 1,74,20,000",2981 cc,64 litres,Petrol,7.9 km/litre,Automatic
+1054,Porsche 911 Carrera S Cabriolet,"Rs. 1,88,44,000",2981 cc,64 litres,Petrol,11.6 km/litre,Automatic
+1055,Nissan Gtr 3.8 V6,"Rs. 2,12,40,272",3799 cc,74 litres,Petrol,9 km/litre,Automatic
+1056,Aston Martin Vantage Coupe,"Rs. 2,95,00,000",3982 cc,73 litres,Petrol,5 km/litre,Automatic
+1057,Aston Martin Rapide Luxe,"Rs. 3,88,45,823",5935 cc,90.5 litres,Petrol,9.1 km/litre,Automatic
+1058,Ferrari 812 Superfast Superfast,"Rs. 5,20,00,000",6496 cc,92 litres,Petrol,,Automatic
+1059,Maruti Suzuki Alto 800 Tour H1,"Rs. 3,54,235",796 cc,35 litres,Petrol,18 km/litre,Manual
+1060,Maruti Suzuki Alto 800 Tour H1 (O),"Rs. 3,56,559",796 cc,35 litres,Petrol,18 km/litre,Manual
+1061,Hyundai Grand I10 Nios Magna 1.2 Crdi,"Rs. 6,75,090",1186 cc,37 litres,Diesel,20.7 km/litre,Manual
+1062,Hyundai Grand I10 Nios Era 1.2 Vtvt,"Rs. 5,04,990",1197 cc,37 litres,Petrol,,Manual
+1063,Hyundai Grand I10 Nios Magna 1.2 Vtvt,"Rs. 5,89,610",1197 cc,37 litres,Petrol,,Manual
+1064,Hyundai Grand I10 Nios Magna Amt 1.2 Vtvt,"Rs. 6,42,610",1197 cc,37 litres,Petrol,,Automatic
+1065,Hyundai Grand I10 Nios Sportz 1.2 Vtvt,"Rs. 6,43,350",1197 cc,37 litres,Petrol,,Manual
+1066,Hyundai Grand I10 Nios Sportz Amt 1.2 Vtvt,"Rs. 7,03,350",1197 cc,37 litres,Petrol,,Automatic
+1067,Hyundai Grand I10 Nios Sportz Dual Tone 1.2 Vtvt,"Rs. 6,73,350",1197 cc,37 litres,Petrol,,Manual
+1068,Hyundai Grand I10 Nios Asta 1.2 Vtvt,"Rs. 7,18,950",1197 cc,37 litres,Petrol,,Manual
+1069,Hyundai Grand I10 Nios Sportz Amt 1.2 Crdi,"Rs. 7,90,350",1186 cc,37 litres,Diesel,,Automatic
+1070,Hyundai Grand I10 Nios Asta 1.2 Crdi,"Rs. 8,04,450",1186 cc,37 litres,Diesel,,Manual
+1071,Hyundai Xcent S 1.2,"Rs. 6,43,769",1197 cc,43 litres,Petrol,15.7 km/litre,Manual
+1072,Hyundai Xcent S At 1.2,"Rs. 7,33,734",1197 cc,43 litres,Petrol,15.7 km/litre,Automatic
+1073,Hyundai Xcent Sx 1.2,"Rs. 7,05,546",1197 cc,43 litres,Petrol,15.7 km/litre,Manual
+1074,Hyundai Xcent Sx 1.2 (O),"Rs. 7,82,346",1197 cc,43 litres,Petrol,15.7 km/litre,Manual
+1075,Hyundai Xcent S 1.2 Crdi,"Rs. 7,42,033",1120 cc,43 litres,Diesel,19 km/litre,Manual
+1076,Hyundai Xcent E,"Rs. 5,81,078",1197 cc,43 litres,Petrol,15.7 km/litre,Manual
+1077,Hyundai Xcent Sx 1.2 Crdi,"Rs. 7,98,558",1120 cc,43 litres,Diesel,19 km/litre,Manual
+1078,Hyundai Xcent Sx 1.2 Crdi (O),"Rs. 8,75,358",1120 cc,43 litres,Diesel,19 km/litre,Manual
+1079,Hyundai Xcent E Crdi,"Rs. 6,73,261",1197 cc,43 litres,Diesel,19 km/litre,Manual
+1080,Nissan Micra Xl (O) Cvt,"Rs. 6,62,880",1198 cc,41 litres,Petrol,,Automatic
+1081,Nissan Micra Xv Cvt,"Rs. 7,81,686",1198 cc,41 litres,Petrol,,Automatic
+1082,Nissan Micra Xld (O),"Rs. 7,43,504",1461 cc,41 litres,Diesel,,Manual
+1083,Nissan Micra Xvd,"Rs. 8,12,964",1461 cc,41 litres,Diesel,19.5 km/litre,Manual
+1084,Mahindra Bolero Zlx,"Rs. 9,42,263",2523 cc,60 litres,Diesel,9.4 km/litre,Manual
+1085,Mahindra Bolero Slx,"Rs. 9,17,055",2523 cc,60 litres,Diesel,12.3 km/litre,Manual
+1086,Mahindra Bolero Sle,"Rs. 8,60,720",2523 cc,60 litres,Diesel,12.3 km/litre,Manual
+1087,Mahindra Bolero Ex,"Rs. 8,15,883",2523 cc,60 litres,Diesel,9.4 km/litre,Manual
+1088,Mahindra Bolero Ex Non Ac,"Rs. 7,73,678",2523 cc,60 litres,Diesel,9.4 km/litre,Manual
+1089,Maruti Suzuki Ciaz 1.3L Alpha Smart Hybrid,"Rs. 11,02,689",1248 cc,43 litres,Diesel,28.09 km/litre,Manual
+1090,Maruti Suzuki Ciaz 1.3L Sigma Smart Hybrid,"Rs. 9,19,689",1248 cc,43 litres,Diesel,28.09 km/litre,Manual
+1091,Maruti Suzuki Ciaz 1.3L Delta Smart Hybrid,"Rs. 9,80,689",1248 cc,43 litres,Diesel,28.09 km/litre,Manual
+1092,Maruti Suzuki Ciaz 1.3L Zeta Smart Hybrid,"Rs. 10,62,689",1248 cc,43 litres,Diesel,28.09 km/litre,Manual
+1093,Maruti Suzuki Ciaz 1.5L Sigma Smart Hybrid,"Rs. 8,19,689",1462 cc,43 litres,Petrol,,Manual
+1094,Maruti Suzuki Ciaz 1.5L Delta Smart Hybrid,"Rs. 8,81,689",1462 cc,43 litres,Petrol,,Manual
+1095,Maruti Suzuki Ciaz 1.5L Zeta Smart Hybrid,"Rs. 9,58,689",1462 cc,43 litres,Petrol,21.56 km/litre,Manual
+1096,Maruti Suzuki Ciaz 1.5L Alpha Smart Hybrid,"Rs. 9,97,689",1462 cc,43 litres,Petrol,,Manual
+1097,Maruti Suzuki Ciaz 1.5L Delta At Smart Hybrid,"Rs. 9,80,689",1462 cc,43 litres,Petrol,,Automatic
+1098,Maruti Suzuki Ciaz 1.5L Zeta At Smart Hybrid,"Rs. 10,58,688",1462 cc,43 litres,Petrol,,Automatic
+1099,Maruti Suzuki Ciaz 1.5L Alpha At Smart Hybrid,"Rs. 10,98,689",1462 cc,43 litres,Petrol,,Automatic
+1100,Maruti Suzuki Ciaz 1.5L Alpha,"Rs. 11,38,189",1498 cc,43 litres,Diesel,26.82 km/litre,Manual
+1101,Maruti Suzuki Ciaz 1.5L Delta,"Rs. 9,97,689",1498 cc,43 litres,Diesel,"26,032 km/litre",Manual
+1102,Maruti Suzuki Ciaz 1.5L Zeta,"Rs. 11,09,189",1498 cc,43 litres,Diesel,26.32 km/litre,Manual
+1103,Skoda Rapid 1.6 Mpi Ambition,"Rs. 9,98,599",1598 cc,55 litres,Petrol,12 km/litre,Manual
+1104,Skoda Rapid 1.5 Tdi Cr Active,"Rs. 10,06,139",1498 cc,55 litres,Diesel,14.5 km/litre,Manual
+1105,Skoda Rapid 1.6 Mpi Active,"Rs. 8,81,916",1598 cc,55 litres,Petrol,12 km/litre,Manual
+1106,Skoda Rapid 1.5 Tdi Cr Ambition,"Rs. 11,29,599",1498 cc,55 litres,Diesel,14.5 km/litre,Manual
+1107,Skoda Rapid 1.5 Tdi Cr Ambition At,"Rs. 12,49,599",1498 cc,55 litres,Diesel,14.5 km/litre,Automatic
+1108,Skoda Rapid 1.6 Mpi Style At,"Rs. 12,43,599",1598 cc,55 litres,Petrol,12 km/litre,Automatic
+1109,Skoda Rapid 1.5 Tdi Cr Style At,"Rs. 13,99,599",1498 cc,55 litres,Diesel,18 km/litre,Automatic
+1110,Skoda Rapid 1.5 Tdi Cr Style,"Rs. 12,73,599",1498 cc,55 litres,Diesel,18 km/litre,Manual
+1111,Skoda Rapid 1.6 Mpi Style,"Rs. 11,15,599",1598 cc,55 litres,Petrol,12 km/litre,Manual
+1112,Skoda Rapid 1.6 Mpi Ambition At,"Rs. 9,99,599",1598 cc,55 litres,Petrol,12 km/litre,Automatic
+1113,Skoda Rapid Onyx Mt Petrol,"Rs. 9,75,599",1598 cc,55 litres,Petrol,12 km/litre,Manual
+1114,Skoda Rapid Onyx At Petrol,"Rs. 10,99,599",1598 cc,55 litres,Petrol,12 km/litre,Automatic
+1115,Skoda Rapid Onyx Mt Diesel,"Rs. 11,58,599",1498 cc,55 litres,Diesel,18 km/litre,Manual
+1116,Skoda Rapid Onyx At Diesel,"Rs. 12,73,599",1498 cc,55 litres,Diesel,18 km/litre,Automatic
+1117,Fiat Abarth Punto 1.4 T-Jet,"Rs. 9,80,970",1368 cc,,Petrol,17 km/litre,Manual
+1118,Hyundai Creta 1.4 Crdi E Plus,"Rs. 9,99,990",1396 cc,55 litres,Diesel,21.38 km/litre,Manual
+1119,Hyundai Creta 1.6 Vtvt E Plus,"Rs. 9,99,990",1591 cc,55 litres,Petrol,15.29 km/litre,Manual
+1120,Hyundai Creta 1.6 Vtvt Sx,"Rs. 12,32,534",1591 cc,55 litres,Petrol,15.29 km/litre,Manual
+1121,Hyundai Creta 1.6 Vtvt Sx (O),"Rs. 13,94,437",1591 cc,55 litres,Petrol,15.29 km/litre,Manual
+1122,Hyundai Creta 1.6 Vtvt Sx At,"Rs. 13,77,363",1591 cc,55 litres,Petrol,15.29 km/litre,Automatic
+1123,Hyundai Creta 1.6 Vtvt Sx Dual Tone,"Rs. 12,87,041",1591 cc,55 litres,Petrol,15.29 km/litre,Automatic
+1124,Hyundai Creta 1.4 Crdi S,"Rs. 11,97,919",1396 cc,55 litres,Diesel,21.38 km/litre,Manual
+1125,Hyundai Creta 1.6 Crdi Sx,"Rs. 13,66,797",1582 cc,55 litres,Diesel,17.01 km/litre,Manual
+1126,Hyundai Creta 1.6 Crdi Sx (O),"Rs. 15,43,564",1582 cc,55 litres,Diesel,17.01 km/litre,Manual
+1127,Hyundai Creta 1.6 Crdi Sx At,"Rs. 15,27,395",1582 cc,55 litres,Diesel,17.01 km/litre,Automatic
+1128,Hyundai Creta 1.6 Crdi Sx Dual Tone,"Rs. 14,21,208",1582 cc,55 litres,Diesel,17.01 km/litre,Manual
+1129,Hyundai Creta 1.6 Crdi S At,"Rs. 13,36,033",1582 cc,55 litres,Diesel,17.01 km/litre,Automatic
+1130,Hyundai Creta 1.6 Vtvt Sx (O) Executive,"Rs. 14,22,937",1591 cc,55 litres,Petrol,15.29 km/litre,Manual
+1131,Hyundai Creta 1.6 Crdi Sx (O) Executive,"Rs. 15,72,064",1582 cc,55 litres,Diesel,17.01 km/litre,Manual
+1132,Hyundai Creta 1.4 Crdi Ex,"Rs. 11,07,167",1396 cc,55 litres,Diesel,21.38 km/litre,Manual
+1133,Hyundai Creta 1.6 Vtvt Ex,"Rs. 10,92,192",1591 cc,55 litres,Petrol,15.29 km/litre,Manual
+1134,Hyundai Creta Sports Edition Petrol,"Rs. 12,79,983",1591 cc,55 litres,Petrol,15.29 km/litre,Manual
+1135,Hyundai Creta Sports Edition Diesel,"Rs. 14,14,247",1582 cc,55 litres,Diesel,,Manual
+1136,Tata Harrier Revotorq Xe,"Rs. 13,45,363",1956 cc,50 litres,Diesel,,Manual
+1137,Tata Harrier Revotorq Xm,"Rs. 14,71,368",1956 cc,50 litres,Diesel,,Manual
+1138,Tata Harrier Revotorq Xt,"Rs. 15,91,368",1956 cc,50 litres,Diesel,,Manual
+1139,Tata Harrier Revotorq Xz,"Rs. 17,21,368",1956 cc,50 litres,Diesel,,Manual
+1140,Tata Harrier Revotorq Xz Dual Tone,"Rs. 17,32,231",1956 cc,50 litres,Diesel,,Manual
+1141,Tata Harrier Revotorq Dark Edition,"Rs. 17,30,755",1956 cc,50 litres,Diesel,,Manual
+1142,Isuzu Dmax V-Cross Standard,"Rs. 16,54,783",2499 cc,,Diesel,7.3 km/litre,Manual
+1143,Isuzu Dmax V-Cross High Z,"Rs. 18,06,813",2499 cc,,Diesel,7.3 km/litre,Manual
+1144,Isuzu Dmax V-Cross Z Prestige,"Rs. 19,99,000",1898 cc,,Diesel,7.3 km/litre,Automatic
+1145,Mitsubishi Outlander 2.4L Outlander,"Rs. 26,93,000",2360 cc,60 litres,Petrol,,Automatic
+1146, Mercedes-Benz Gla-Class 200 Sport,"Rs. 34,38,000",1991 cc,50 litres,Petrol,10 km/litre,Automatic
+1147, Mercedes-Benz Gla-Class 200 D Style,"Rs. 32,33,000",2143 cc,70 litres,Diesel,13.4 km/litre,Automatic
+1148, Mercedes-Benz Gla-Class 200 D Sport,"Rs. 35,64,000",2143 cc,70 litres,Diesel,13.4 km/litre,Automatic
+1149, Mercedes-Benz Gla-Class 45 Amg 4Matic,"Rs. 77,84,944",1991 cc,50 litres,Petrol,10.2 km/litre,Automatic
+1150, Mercedes-Benz Gla-Class 220 D 4Matic,"Rs. 38,64,000",2143 cc,70 litres,Diesel,13.4 km/litre,Automatic
+1151, Mercedes-Benz Gla-Class 45 Aero Edition,"Rs. 80,67,000",1991 cc,50 litres,Petrol,10.2 km/litre,Automatic
+1152,Honda Accord Hybrid 2.0 At,"Rs. 43,21,237",1993 cc,60 litres,Hybrid,21 km/litre,Automatic
+1153,Bmw 5-Series 520D Luxury Line,"Rs. 59,30,000",1995 cc,70 litres,Diesel,8.4 km/litre,Automatic
+1154,Bmw 5-Series 530D M Sport,"Rs. 66,80,000",2993 cc,70 litres,Diesel,13.1 km/litre,Automatic
+1155,Bmw 5-Series 530I M Sport,"Rs. 59,80,000",1998 cc,70 litres,Petrol,15.01 km/litre,Automatic
+1156,Bmw 6-Series 630D Gt Luxury Line,"Rs. 68,90,000",2993 cc,88 litres,Diesel,,Automatic
+1157,Bmw 6-Series 630D Gt M Sport,"Rs. 74,50,000",2993 cc,88 litres,Diesel,,Automatic
+1158,Bmw 6-Series 630I Gt Luxury Line,"Rs. 64,40,000",4395 cc,70 litres,Petrol,4.45 km/litre,Automatic
+1159,Bmw 6-Series 620D Gt Luxury Line,"Rs. 64,40,000",1995 cc,66 litres,Diesel,,Automatic
+1160,Porsche Macan S,"Rs. 85,03,000",2995 cc,65 litres,Petrol,,Automatic
+1161,Porsche Macan Base,"Rs. 69,98,000",1984 cc,65 litres,Petrol,,Automatic
+1162,Jaguar F-Type 5.0 Convertible R,"Rs. 2,36,59,454",5000 cc,,Petrol,12.05 km/litre,Automatic
+1163,Jaguar F-Type 5.0 Coupe R,"Rs. 2,21,55,390",5000 cc,72 litres,Petrol,7.81 km/litre,Automatic
+1164,Jaguar F-Type Svr Coupe,"Rs. 2,65,01,830",5000 cc,70 litres,Petrol,,Automatic
+1165,Jaguar F-Type Svr Convertible,"Rs. 2,80,04,965",5000 cc,70 litres,Petrol,,Automatic
+1166,Jaguar F-Type 2.0L Coupe,"Rs. 90,92,578",1997 cc,63 litres,Petrol,,Automatic
+1167,Jaguar F-Type 2.0L Convertible,"Rs. 1,01,44,987",1997 cc,63 litres,Petrol,,Automatic
+1168,Jaguar F-Type 2.0 Convertible R Dynamic,"Rs. 1,04,19,200",1997 cc,63 litres,Petrol,,Automatic
+1169,Jaguar F-Type 2.0 Coupe R Dynamic,"Rs. 93,66,433",1997 cc,63 litres,Petrol,,Automatic
+1170,Bmw M5 Competition,"Rs. 1,54,90,000",4395 cc,68 litres,Petrol,,Automatic
+1171,Lexus Lx 570 V8,"Rs. 2,32,90,000",5700 cc,93 litres,Diesel,18 km/litre,Automatic
+1172,Ferrari 458 Spider V8,"Rs. 4,33,67,500",3902 cc,86 litres,Petrol,3.2 km/litre,Automatic
+1173,Maruti Suzuki R Wagon Vxi,"Rs. 4,79,000",998 cc,32 litres,Petrol,,Manual
+1174,Maruti Suzuki R Wagon Vxi Ags,"Rs. 5,26,000",998 cc,32 litres,Petrol,,Automatic
+1175,Maruti Suzuki R Wagon 1.2L Zxi,"Rs. 5,48,000",1197 cc,32 litres,Petrol,,Manual
+1176,Maruti Suzuki R Wagon Lxi,"Rs. 4,34,000",998 cc,32 litres,Petrol,,Manual
+1177,Maruti Suzuki R Wagon 1.2L Vxi,"Rs. 5,13,501",1197 cc,32 litres,Petrol,,Manual
+1178,Maruti Suzuki R Wagon 1.2L Vxi Ags,"Rs. 5,60,500",1197 cc,32 litres,Petrol,,Automatic
+1179,Maruti Suzuki R Wagon 1.2L Zxi Ags,"Rs. 5,94,800",1197 cc,32 litres,Petrol,,Automatic
+1180,Maruti Suzuki R Wagon Lxi (O),"Rs. 4,41,000",998 cc,32 litres,Petrol,,Manual
+1181,Maruti Suzuki R Wagon Vxi (O),"Rs. 4,86,001",998 cc,32 litres,Petrol,,Manual
+1182,Maruti Suzuki R Wagon 1.2L Vxi (O),"Rs. 5,20,500",1197 cc,32 litres,Petrol,,Manual
+1183,Maruti Suzuki R Wagon 1.2L Vxi Ags (O),"Rs. 5,67,500",1197 cc,32 litres,Petrol,,Automatic
+1184,Maruti Suzuki R Wagon Vxi Ags (O),"Rs. 5,33,000",998 cc,32 litres,Petrol,,Automatic
+1185,Maruti Suzuki R Wagon Lxi Cng,"Rs. 5,00,500",998 cc,32 litres,CNG,,Manual
+1186,Maruti Suzuki R Wagon Lxi (O) Cng,"Rs. 5,07,500",998 cc,32 litres,CNG,,Manual
+1187,Tata Tiago Nrg 1.2L Revotron,"Rs. 5,94,993",1199 cc,35 litres,Petrol,,Manual
+1188,Tata Tiago Nrg 1.05L Revotorq,"Rs. 6,89,993",1047 cc,35 litres,Diesel,,Manual
+1189,Tata Tiago Nrg 1.2L Revotron Amt,"Rs. 6,39,993",1199 cc,35 litres,Petrol,,AMT
+1190,Mahindra Nuvosport N4,"Rs. 7,97,802",1493 cc,60 litres,Diesel,13.8 km/litre,Manual
+1191,Mahindra Nuvosport N6,"Rs. 9,05,642",1493 cc,60 litres,Diesel,13.8 km/litre,Manual
+1192,Mahindra Nuvosport N8,"Rs. 9,84,818",1493 cc,60 litres,Diesel,13.8 km/litre,Manual
+1193,Mahindra Nuvosport N4 +,"Rs. 8,32,415",1493 cc,,Diesel,13.8 km/litre,Manual
+1194,Mahindra Nuvosport N6 Amt,"Rs. 9,72,359",1493 cc,60 litres,Diesel,12.8 km/litre,Automatic
+1195,Mahindra Nuvosport N8 Amt,"Rs. 10,48,603",1493 cc,60 litres,Diesel,12.8 km/litre,Automatic
+1196,Nissan Kicks Xl Petrol,"Rs. 9,55,000",1498 cc,50 litres,Petrol,,Manual
+1197,Nissan Kicks Xv Petrol,"Rs. 10,95,000",1498 cc,50 litres,Petrol,,Manual
+1198,Nissan Kicks Xl Diesel,"Rs. 11,09,000",1461 cc,50 litres,Diesel,,Manual
+1199,Nissan Kicks Xv Diesel,"Rs. 12,51,000",1461 cc,50 litres,Diesel,,Manual
+1200,Nissan Kicks Xv Premium,"Rs. 13,69,000",1461 cc,50 litres,Diesel,,Manual
+1201,Nissan Kicks Xv Premium (O),"Rs. 14,65,000",1461 cc,50 litres,Diesel,,Manual
+1202,Nissan Kicks Xv Premium (O) Dual Tone,"Rs. 14,65,000",1461 cc,50 litres,Diesel,,Manual
+1203,Nissan Kicks Xe Diesel,"Rs. 9,89,000",1461 cc,50 litres,Diesel,,Manual
+1204,Tata Winger 15S,"Rs. 12,05,000",2200 cc,60 litres,Diesel,,Manual
+1205,Hyundai Kona Electric Premium,"Rs. 23,71,858",,,Electric,,Automatic
+1206,Toyota Camry Hybrid,"Rs. 37,88,000",2487 cc,50 litres,Hybrid,,Automatic
+1207,Audi A5 Sportback,"Rs. 60,61,200",1968 cc,,Diesel,,Automatic
+1208,Land Rover Discovery 3.0 Hse Diesel,"Rs. 1,02,05,494",2993 cc,85 litres,Diesel,,Automatic
+1209,Land Rover Discovery 3.0 Se Diesel,"Rs. 96,89,321",2993 cc,85 litres,Diesel,,Automatic
+1210,Land Rover Discovery 3.0 Hse Petrol,"Rs. 84,33,741",2995 cc,89 litres,Petrol,,Automatic
+1211,Land Rover Discovery 3.0 Se Petrol,"Rs. 80,77,550",2995 cc,89 litres,Petrol,,Automatic
+1212,Land Rover Discovery 3.0 S Diesel,"Rs. 88,77,094",2993 cc,85 litres,Diesel,,Automatic
+1213,Land Rover Discovery 3.0 S Petrol,"Rs. 76,93,664",2995 cc,89 litres,Petrol,,Automatic
+1214,Land Rover Discovery 3.0 Hse Luxury Diesel,"Rs. 1,08,61,088",2993 cc,85 litres,Diesel,,Automatic
+1215,Land Rover Discovery 3.0 Hse Luxury Petrol,"Rs. 89,37,846",2995 cc,89 litres,Petrol,,Automatic
+1216,Lexus Ls 500H Luxury,"Rs. 1,82,21,000",3456 cc,82 litres,Hybrid,,Automatic
+1217,Lexus Ls 500H Ultra Luxury,"Rs. 1,87,36,000",3456 cc,82 litres,Hybrid,,Automatic
+1218,Lexus Ls 500H Distinct,"Rs. 1,93,71,000",3456 cc,82 litres,Hybrid,,Automatic
+1219, Rolls-Royce Phantom Sedan,"Rs. 9,50,00,000",6749 cc,100 litres,Petrol,10.2 km/litre,Automatic
+1220, Rolls-Royce Phantom Ewb,"Rs. 7,54,00,000",6749 cc,100 litres,Petrol,10.2 km/litre,Automatic
+1221,Fiat Punto Evo Dynamic 1.2,"Rs. 5,35,562",1172 cc,45 litres,Petrol,15.8 km/litre,Manual
+1222,Fiat Punto Evo Active Multijet 1.3,"Rs. 6,31,292",1172 cc,45 litres,Diesel,"21,2 km/litre",Manual
+1223,Fiat Punto Evo Dynamic Multijet 1.3,"Rs. 6,92,655",1248 cc,45 litres,Diesel,"21,2 km/litre",Manual
+1224,Fiat Punto Evo Emotion Multijet 1.3,"Rs. 7,47,774",1248 cc,45 litres,Diesel,"21,2 km/litre",Manual
+1225,Toyota Yaris J,"Rs. 9,40,000",1496 cc,42 litres,Petrol,,Manual
+1226,Toyota Yaris G,"Rs. 10,55,000",1496 cc,42 litres,Petrol,,Manual
+1227,Toyota Yaris V,"Rs. 11,74,000",1498 cc,42 litres,Petrol,,Manual
+1228,Toyota Yaris Vx Cvt,"Rs. 14,18,000",1496 cc,42 litres,Petrol,,Automatic
+1229,Toyota Yaris G Cvt,"Rs. 11,75,000",1496 cc,42 litres,Petrol,,Automatic
+1230,Toyota Yaris J Cvt,"Rs. 10,10,000",1496 cc,42 litres,Petrol,,Automatic
+1231,Toyota Yaris V Cvt,"Rs. 12,94,000",1496 cc,42 litres,Petrol,,Automatic
+1232,Toyota Yaris Vx,"Rs. 12,96,000",1496 cc,42 litres,Petrol,,Manual
+1233,Toyota Yaris V (O),"Rs. 11,97,000",1498 cc,42 litres,Petrol,,Manual
+1234,Toyota Yaris J (O),"Rs. 8,76,000",1496 cc,42 litres,Petrol,,Manual
+1235,Toyota Yaris G (O),"Rs. 9,74,000",1496 cc,42 litres,Petrol,,Manual
+1236,Toyota Yaris J (O) Cvt,"Rs. 9,35,000",1496 cc,42 litres,Petrol,,Automatic
+1237,Toyota Yaris G (O) Cvt,"Rs. 10,83,000",1496 cc,42 litres,Petrol,,Automatic
+1238,Toyota Yaris V (O) Cvt,"Rs. 13,17,000",1498 cc,42 litres,Petrol,,Automatic
+1239,Skoda Octavia Ambition 1.4 Tsi,"Rs. 15,99,599",1395 cc,50 litres,Petrol,,Manual
+1240,Skoda Octavia Ambition 2.0 Tdi Cr,"Rs. 17,99,599",1968 cc,50 litres,Diesel,,Manual
+1241,Skoda Octavia Style 1.4 Tsi,"Rs. 18,99,599",1395 cc,50 litres,Petrol,,Manual
+1242,Skoda Octavia Style 1.8 Tsi At,"Rs. 20,59,599",1798 cc,50 litres,Petrol,,Automatic
+1243,Skoda Octavia Style 2.0 Tdi Cr,"Rs. 20,79,599",1968 cc,50 litres,Diesel,,Manual
+1244,Skoda Octavia Style 2.0 Tdi Cr At,"Rs. 22,99,599",1968 cc,50 litres,Diesel,,Automatic
+1245,Skoda Octavia L & K 1.8 Tsi At,"Rs. 23,59,599",1798 cc,50 litres,Petrol,,Automatic
+1246,Skoda Octavia L & K 2.0 Tdi Cr At,"Rs. 23,59,599",1968 cc,50 litres,Diesel,,Automatic
+1247,Skoda Octavia Corporate Edition 1.4 Tsi,"Rs. 15,49,000",1395 cc,50 litres,Petrol,,Manual
+1248,Skoda Octavia Corporate Edition 2.0 Tdi,"Rs. 16,99,000",1968 cc,50 litres,Diesel,,Manual
+1249,Skoda Octavia Onyx 1.8 Tsi Dsg,"Rs. 19,99,599",1798 cc,50 litres,Petrol,,Automatic
+1250,Skoda Octavia Onyx 2.0 Tdi Dsg,"Rs. 21,99,599",1968 cc,50 litres,Diesel,,Automatic
+1251, Mercedes-Benz Glc 200 Progressive,"Rs. 52,75,000",1991 cc,66 litres,Petrol,,Automatic
+1252, Mercedes-Benz Glc 220D 4Matic Progressive,"Rs. 57,75,000",1950 cc,50 litres,Diesel,,Automatic
+1253,Porsche Cayenne Coupe Base,"Rs. 1,31,51,000",2995 cc,75 litres,Petrol,,Automatic
+1254,Porsche Cayenne Coupe Turbo,"Rs. 1,97,63,000",2995 cc,90 litres,Petrol,,Automatic
+1255,Mahindra Verito 1.5 D2,"Rs. 7,48,370",1461 cc,50 litres,Diesel,18 km/litre,Manual
+1256,Mahindra Verito 1.5 D4 Bs-Iv,"Rs. 7,72,617",1461 cc,50 litres,Diesel,18 km/litre,Manual
+1257,Mahindra Verito 1.5 D6 Bs-Iv,"Rs. 8,45,154",1461 cc,50 litres,Diesel,18 km/litre,Manual
+1258,Mitsubishi Pajero Sport 2.5 Mt,"Rs. 29,03,750",2477 cc,70 litres,Diesel,6.5 km/litre,Manual
+1259,Mitsubishi Pajero Sport 2.5 At,"Rs. 28,35,500",2477 cc,70 litres,Diesel,6.5 km/litre,Automatic
+1260,Mitsubishi Pajero Sport Limited Edition,"Rs. 29,53,240",2477 cc,70 litres,Diesel,6.5 km/litre,Manual
+1261,Mitsubishi Pajero Sport Select Plus Mt,"Rs. 29,92,800",2477 cc,70 litres,Diesel,6.5 km/litre,Manual
+1262,Mitsubishi Pajero Sport Select Plus At,"Rs. 29,52,500",2477 cc,70 litres,Diesel,6.5 km/litre,Automatic
+1263,Bentley Flying Spur V8,"Rs. 3,41,67,064",3993 cc,90 litres,Petrol,2 km/litre,Automatic
+1264,Bentley Flying Spur W12,"Rs. 3,93,82,083",5998 cc,90 litres,Petrol,2 km/litre,Automatic
+1265,Honda City Sv Mt Petrol,"Rs. 9,91,000",1497 cc,40 litres,Petrol,14.3 km/litre,Manual
+1266,Honda City V Mt Petrol,"Rs. 10,65,900",1497 cc,40 litres,Petrol,14.3 km/litre,Manual
+1267,Honda City Vx Mt Petrol,"Rs. 11,82,000",1497 cc,40 litres,Petrol,14.3 km/litre,Manual
+1268,Honda City Vx Cvt Petrol,"Rs. 13,12,000",1497 cc,40 litres,Petrol,14.3 km/litre,Automatic
+1269,Honda City Sv Mt Diesel,"Rs. 11,11,000",1498 cc,40 litres,Diesel,22.6 km/litre,Manual
+1270,Honda City V Mt Diesel,"Rs. 11,91,000",1498 cc,40 litres,Diesel,22.6 km/litre,Manual
+1271,Honda City Vx Mt Diesel,"Rs. 13,02,000",1498 cc,40 litres,Diesel,22.6 km/litre,Manual
+1272,Honda City Zx Mt Diesel,"Rs. 14,21,000",1498 cc,40 litres,Diesel,22.6 km/litre,Manual
+1273,Honda City Zx Cvt Petrol,"Rs. 14,31,000",1497 cc,40 litres,Petrol,18 km/litre,Automatic
+1274,Honda City V Cvt Petrol,"Rs. 12,01,000",1497 cc,40 litres,Petrol,14.3 km/litre,Automatic
+1275,Mitsubishi Montero 3.2 At,"Rs. 68,62,560",3200 cc,88 litres,Diesel,8.25 km/litre,Automatic
