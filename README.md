@@ -2,10 +2,10 @@
 
 # Car Trendz - Car Price Prediction
 ### Car Trendz is a web application that demonstrate how the Automotive Industry could harness data to take informed decisions.
-[Website Link](https://ms-engage-2022-data-analysis.herokuapp.com/)
+[Website Link](https://ms-engage-2022-data-analysis.herokuapp.com/)<br>
 [Video Demo](https://www.youtube.com/watch?v=jvHa37Ww3Zo)
-* Car Price Prediction
-* Data Visualization
+* Car Price Prediction - This project analyzes market trends and forecasts the price based on the attributes one needs. The application of Random Forest Regressor on the attribute datasets yields promising results by developing adaptive, automated and intelligent price prediction. The score comes out to be 89.88%
+* Data Visualization - Plots using the different libraries of python
 
 ### 📌 Table of Contents
 * [Toolchain](#toolchain)
@@ -26,7 +26,7 @@
 
 ***Backend*** : Flask, Jinja
 
-***Libraries*** : Pandas, Numpy, Scikit-learn
+***Libraries*** : Pandas, Numpy, Matplotlib, Plotly, Seaborn, Scikit-learn
 
 ***Other*** : Git - Version Control, Visual Studio Code
 
@@ -49,15 +49,15 @@
 <!-- ### Register Page 
 ![Website Image](flaskblog/static/img/register.png?raw=true "Title")
 ### Login Page
-![Website Image](flaskblog/static/img/login.png?raw=true "Title") -->
+![Website Image](flaskblog/static/img/login.png?raw=true "Title") 
 ### Checkup Page 
 ![Website Image](flaskblog/static/img/checkup.png?raw=true "Title")
 ### Diagnosed Disease 
 ![Website Image](flaskblog/static/img/diagnosis.png?raw=true "Title")
 ### User Helpguide
 ![Website Image](flaskblog/static/img/guide.png?raw=true "Title")
-<!-- ### Terms and condition Page 
-![Website Image](flaskblog/static/img/terms.png?raw=true "Title") -->
+### Terms and condition Page 
+![Website Image](flaskblog/static/img/terms.png?raw=true "Title") 
 ### FAQ Page 
 ![Website Image](flaskblog/static/img/faq.png?raw=true "Title")
 ### Emergency Helpline Numbers
@@ -101,7 +101,7 @@ virtual1\Scripts\python .\MS-Engage-2022-Data-Analysis\run.py
 <a id="authors"></a>
 ## 💻 Author
 
-Samya Jain(Backend Development)<br>
+Samya Jain<br>
 [@Linkedin](https://www.linkedin.com/in/samya-jain-a68443204)
 <br>
 [@Github](https://github.com/samya02)
