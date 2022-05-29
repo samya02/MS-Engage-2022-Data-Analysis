@@ -1,6 +1,6 @@
 # MS-Engage-2022-Data-Analysis
 
-# Car Trendz - Car Price Prediction
+## Car Trendz - Car Price Prediction
 ### Car Trendz is a web application that demonstrate how the Automotive Industry could harness data to take informed decisions.
 [Website Link](https://ms-engage-2022-data-analysis.herokuapp.com/)<br>
 [Video Demo](https://www.youtube.com/watch?v=jvHa37Ww3Zo)
@@ -13,7 +13,7 @@
 * [Application Overview](#overview)
 * [Learnings](#learning)
 * [Setup](#setup)
-* [Authors](#authors)
+* [Author](#authors)
 * [Bug Reporting](#bug)
 
 
@@ -96,6 +96,20 @@ pip install -r requirements.txt
 virtual1\Scripts\python .\MS-Engage-2022-Data-Analysis\run.py
 ```
 * Now Head on to ['http://127.0.0.1:5000/'](http://127.0.0.1:5000/)
+
+### OR Checkout this detailed procedure
+
+Fork, Clone and add a git remote (say upstream) to the original repository.
+
+Now create a virtual environment ```python -m venv virtual1```
+Certain libraries needs to be installed in your terminal in the virtual environment.
+
+Flask -``` virtual1\Scripts\pip install flask```
+Numpy- ```virtual1\Scripts\pip install numpy```
+Pandas- ```virtual1\Scripts\pip install pandas```
+Sklearn- ```virtual1\Scripts\pip install sklearn```
+
+Now to run the localhost the command is as follows: ```virtual1\Scripts\python .\MS-Engage-2022-Data-Analysis\run.py```
 
 
 <a id="authors"></a>
